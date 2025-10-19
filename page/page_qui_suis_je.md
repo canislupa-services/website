@@ -19,9 +19,6 @@ Je t'aide :
 
 Si tu es prêt·e à évoluer avec lui, mon approche est basée sur la coopération et la bienveillance, pour que ton chien et toi puissiez progresser ensemble.
 
-👉🏻 [Voir mon parcours]({{ "/quisuisje/" | relative_url }})
-
-
 ## Qui je suis
 
 MARY  
