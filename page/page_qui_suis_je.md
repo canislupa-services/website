@@ -2,7 +2,7 @@
 layout: default
 title: Présentation
 description: Présentation de Canislupa, éducatrice canin à Saint-Étienne
-permalink: /presentation/
+permalink: /qui-suis-je/
 ---
 Parcours et formations de Canislupa, éducatrice canin à Saint-Étienne
 
