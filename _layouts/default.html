@@ -7,7 +7,6 @@
     {% seo %}
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <!-- <link href="https://fonts.googleapis.com/css2?family=Caveat+Brush&display=swap" rel="stylesheet"> -->
     <link
       href="https://fonts.googleapis.com/css2?family=Caveat+Brush&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap"
       rel="stylesheet"
@@ -22,25 +21,29 @@
 
   <!-- HEADER -->
   <header class="header">
-    <div class="container header-content">
-      <a href="{{ '/' | relative_url }}">
+    <div class="container header-clickable header-content">
+      <a
+        class="header-overlay"
+        href="{{ '/' | relative_url }}"
+        aria-label="Aller à l’accueil"
+      ></a>
+      <div class="">
         <img
           src="{{ '/assets/images/logo_canislupa.png' | relative_url }}"
           alt="Canislupa logo"
           class="logo"
         />
-        <h1>{{ site.title | default: "Bienvenue chez Canislupa 🐾" }}</h1>
-        <p>
+      </div>
+      <div>
+        <h1>{{ site.title | default: "Bienvenue chez Canislupa" }}</h1>
+        <p class="header-description">
           {{ site.description | default: "Éducation canine, rééducation,
           dogsitting, prévention des morsures…" }}
         </p>
-      </a>
-      <div></div>
+      </div>
     </div>
-
     <nav class="navbar">
       <a href="{{ '/services/' | relative_url }}">Services</a>
-      <a href="{{ '/eduction/' | relative_url }}">Éducation canin</a>
       <a href="{{ '/tarifs/' | relative_url }}">Tarifs</a>
       <a href="{{ '/qui-suis-je/' | relative_url }}">Qui suis je ?</a>
     </nav>
@@ -121,6 +124,9 @@
             <!-- Remplacez les href par vos URLs réelles -->
             <li><a href="/">Accueil</a></li>
             <li><a href="{{ '/services/' | relative_url }}">Services</a></li>
+            <li>
+              <a href="{{ '/eduction/' | relative_url }}">Éducation canin</a>
+            </li>
             <li><a href="{{ '/tarifs/' | relative_url }}">Tarifs</a></li>
             <li>
               <a href="{{ '/qui-suis-je/' | relative_url }}">Qui suis je ?</a>
