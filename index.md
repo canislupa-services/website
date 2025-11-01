@@ -4,32 +4,32 @@ title: Bienvenue chez Canislupa !
 description: Éducation canine, rééducation, dogsitting, prévention des morsures…
 ---
 
-<section class="intro">
-  <h2>Faire appel à une éducatrice canin à Saint-Étienne et alentour</h2>
-  <p>Découvrez les services proposés à Saint-Étienne et alentours.</p>
-  ✨ Pourquoi me choisir ?
-  <ul>
-    <li>🌿 Approche <strong>bienveillante et respectueuse</strong> du chien</li>
-    <li>🐶 Suivi <strong>personnalisé</strong> pour chaque duo humain-chien</li>
-    <li>💚 Passion pour une <strong>relation harmonieuse</strong></li>
-  </ul>
-</section>
+## Faire appel à une éducatrice canin
+
+Je vous propose mes services à Saint-Étienne et alentours.
+
+### Pourquoi me choisir ?
+
+- 🌿 Approche **bienveillante et respectueuse** du chien
+- 🐶 Suivi **personnalisé** pour chaque duo humain-chien
+- 💚 Passion pour une **relation harmonieuse**
+
 
 <section class="cards">
   <article class="card">
-    <h3>Éducation canine</h3>
+    <h4>Éducation canine</h4>
     <p>Rééducation, étude du comportement, séances individuelles ou collectives, méthode positive basée sur l’encouragement.</p>
     <a href="{{ '/services/' | relative_url }}">En savoir plus →</a>
   </article>
 
   <article class="card">
-    <h3>Dogsitting</h3>
+    <h4>Dogsitting</h4>
     <p>Gardes à domicile, balades individuelles ou collectives, centre aéré pour chiens.</p>
     <a href="{{ '/services/' | relative_url }}">En savoir plus →</a>
   </article>
 
   <article class="card">
-    <h3>Programme PECCRAM</h3>
+    <h4>Programme PECCRAM</h4>
     <p>Programme d’éducation à la prévention des morsures pour enfants.</p>
     <a href="{{ '/services/' | relative_url }}">En savoir plus →</a>
   </article>

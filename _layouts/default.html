@@ -5,9 +5,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="theme-color" content="#86b049" />
     {% seo %}
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Caveat+Brush&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <!-- <link href="https://fonts.googleapis.com/css2?family=Caveat+Brush&display=swap" rel="stylesheet"> -->
+    <link
+      href="https://fonts.googleapis.com/css2?family=Caveat+Brush&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap"
+      rel="stylesheet"
+    />
     <link
       rel="stylesheet"
       href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}"
@@ -16,102 +20,141 @@
     <title>{{ page.title | default: site.title }}</title>
   </head>
 
+  <!-- HEADER -->
+  <header class="header">
+    <div class="container header-content">
+      <a href="{{ '/' | relative_url }}">
+        <img
+          src="{{ '/assets/images/logo_canislupa.png' | relative_url }}"
+          alt="Canislupa logo"
+          class="logo"
+        />
+        <h1>{{ site.title | default: "Bienvenue chez Canislupa 🐾" }}</h1>
+        <p>
+          {{ site.description | default: "Éducation canine, rééducation,
+          dogsitting, prévention des morsures…" }}
+        </p>
+      </a>
+      <div></div>
+    </div>
+
+    <nav class="navbar">
+      <a href="{{ '/services/' | relative_url }}">Services</a>
+      <a href="{{ '/eduction/' | relative_url }}">Éducation canin</a>
+      <a href="{{ '/tarifs/' | relative_url }}">Tarifs</a>
+      <a href="{{ '/qui-suis-je/' | relative_url }}">Qui suis je ?</a>
+    </nav>
+  </header>
+
   <body>
-    <!-- HEADER -->
-    <header class="header">
-      <div class="container header-content">
-        <a href="{{ '/' | relative_url }}">
-          <img
-            src="{{ '/assets/images/logo_canislupa.png' | relative_url }}"
-            alt="Canislupa logo"
-            class="logo"
-          />
-          <h1>{{ site.title | default: "Bienvenue chez Canislupa 🐾" }}</h1>
-          <p>
-            {{ site.description | default: "Éducation canine, rééducation,
-            dogsitting, prévention des morsures…" }}
-          </p>
-        </a>
-        <div>
-        </div>
-      </div>
-
-      <nav class="navbar">
-        <a href="{{ '/services/' | relative_url }}">Services</a>
-        <a href="{{ '/tarifs/' | relative_url }}">Tarifs</a>
-        <a href="{{ '/qui-suis-je/' | relative_url }}">Qui suis je ?</a>
-      </nav>
-    </header>
-
     <!-- CONTENU -->
     <main class="container">{{ content }}</main>
 
     <img
       class="image-footer"
-      src="{{ '/assets/images/footer_canislupa.png' | relative_url }}"
+      src="{{ '/assets/images/footer-ombres-chiens.png' | relative_url }}"
       alt="Chiens assis"
     />
-
-    <!-- FOOTER -->
-    <footer class="footer">
-      <div class="container">
-        <h4>Me contacter</h4>
-        <ul>
-          <li>📧 <a href="mailto:canislupa@gmx.fr">canislupa@gmx.fr</a></li>
-          <li>📞 <a href="tel:+33626490040">06 26 49 00 40</a></li>
-          <li>📍 Saint-Étienne et alentours</li>
-        </ul>
-
-        <div>
-          <div class="social-icons">
-            <a href="https://www.facebook.com/canislupaeducationcanine">
-              <!-- facebook-with-circle -->
-              <svg
-                width="35px"
-                id="facebook"
-                xmlns="http://www.w3.org/2000/svg"
-                viewBox="0 0 20 20"
-                xml:space="preserve"
-              >
-                <path
-                  fill="#FFF"
-                  class="st0"
-                  d="M10,0.4c-5.3,0-9.6,4.3-9.6,9.6s4.3,9.6,9.6,9.6s9.6-4.3,9.6-9.6S15.3,0.4,10,0.4z M12.3,7h-1.4 c-0.2,0-0.4,0.2-0.4,0.5v1h1.8L12,10.1h-1.5v4.5H8.8v-4.5H7.2V8.6h1.5V7.7c0-1.3,0.9-2.3,2.1-2.3h1.4L12.3,7z"
-                />
-              </svg>
-            </a>
-            <a href="https://www.instagram.com/mary_canislupa/">
-              <!-- instagram-with-circle -->
-              <svg
-                width="35px"
-                id="instagram"
-                xmlns="http://www.w3.org/2000/svg"
-                xmlns="http://www.w3.org/2000/svg"
-                viewBox="0 0 20 20"
-              >
-                <path
-                  fill="#FFF"
-                  d="M12.7,6.7c-0.3,0-0.5,0.2-0.5,0.5c0,0.3,0.2,0.5,0.5,0.5c0.3,0,0.5-0.2,0.5-0.5C13.1,6.9,12.9,6.7,12.7,6.7z"
-                />
-                <path
-                  fill="#FFF"
-                  d="M9.9,7.4c-1.4,0-2.5,1.2-2.5,2.8c0,0.5,0.3,1.2,0.8,1.7c0.6,0.5,1.2,0.7,1.9,0.7c1.2-0.1,2.3-1.1,2.3-2.6 C12.6,8.5,11.4,7.4,9.9,7.4z M10,11.9c-1,0-1.9-0.9-1.9-1.9C8.1,9,9,8.1,10,8.1S11.9,9,11.9,10C11.9,11,11,11.9,10,11.9z"
-                />
-                <path
-                  fill="#FFF"
-                  d="M10,0.4c-5.3,0-9.6,4.3-9.6,9.6s4.3,9.6,9.6,9.6s9.6-4.3,9.6-9.6S15.3,0.4,10,0.4z M14.8,12.6 c0,0.9-0.4,1.5-1.2,1.9c-0.3,0.2-0.7,0.3-1,0.3c-1.8,0-3.5,0-5.3,0c0,0,0,0,0,0c-0.6,0-1.2-0.3-1.6-0.8c-0.2-0.3-0.4-0.6-0.5-1 c0-0.1,0-0.2,0-0.4c0-1,0-1.9,0-2.9c0-0.8,0-1.6,0-2.4c0-0.5,0.1-1,0.4-1.4C5.9,5.6,6.4,5.3,7,5.2c0.2,0,0.4,0,0.6,0 c1.7,0,3.3,0,5,0c0.4,0,0.7,0.1,1.1,0.2c0.4,0.2,0.7,0.5,1,0.9c0.2,0.3,0.3,0.7,0.3,1.1C14.8,9.1,14.8,10.9,14.8,12.6z"
-                />
-              </svg>
-            </a>
-          </div>
-
-        <p>© {{ site.time | date: "%Y" }} Canislupa — Tous droits réservés.</p>
-      </div>
-    </footer>
 
     <script
       src="https://kit.fontawesome.com/a076d05399.js"
       crossorigin="anonymous"
     ></script>
   </body>
+
+  <!-- FOOTER -->
+  <!-- <footer class="footer">
+    <div class="container">
+      <h3>Me contacter</h3>
+      <ul style="list-style: none; padding: 0; margin: 0;">
+        <li>📧 <a href="mailto:canislupa@gmx.fr">canislupa@gmx.fr</a></li>
+        <li>📞 <a href="tel:+33626490040">06 26 49 00 40</a></li>
+        <li>📍 Saint-Étienne et alentours</li>
+      </ul>
+
+      <div>
+        <div class="social-icons">
+          <a href="https://www.facebook.com/canislupaeducationcanine">
+            <img src="assets/icons/facebook.svg" alt="Facebook" width="35">
+          </a>
+          <a href="https://www.instagram.com/mary_canislupa/">
+            <img src="assets/icons/instagram.svg" alt="Instagram" width="35">
+          </a>
+        </div>
+
+        <p>© {{ site.time | date: "%Y" }} Canislupa — Tous droits réservés.</p>
+      </div>
+  </footer> -->
+
+  <footer class="footer">
+    <div class="container" style="padding-top: 3rem">
+      <div class="footer-grid">
+        <div class="footer-col">
+          <h4>Canislupa</h4>
+          <ul class="footer-list">
+            <li>Éducation canine</li>
+            <li>📍 Saint-Étienne et alentours</li>
+          </ul>
+        </div>
+
+        <nav class="footer-col" aria-label="Coordonnées">
+          <h4>Me contacter</h4>
+          <ul class="footer-list footer-contact">
+            <li>
+              <a
+                href="mailto:canislupa@gmx.fr"
+                aria-label="Envoyer un email à Canislupa"
+                >canislupa@gmx.fr</a
+              >
+            </li>
+            <li>
+              <a href="tel:+33626490040" aria-label="Appeler le 06 26 49 00 40"
+                >06 26 49 00 40</a
+              >
+            </li>
+          </ul>
+        </nav>
+
+        <nav class="footer-col" aria-label="Plan du site">
+          <h4>Plan du site</h4>
+          <ul class="footer-list">
+            <!-- Remplacez les href par vos URLs réelles -->
+            <li><a href="/">Accueil</a></li>
+            <li><a href="{{ '/services/' | relative_url }}">Services</a></li>
+            <li><a href="{{ '/tarifs/' | relative_url }}">Tarifs</a></li>
+            <li>
+              <a href="{{ '/qui-suis-je/' | relative_url }}">Qui suis je ?</a>
+            </li>
+          </ul>
+        </nav>
+
+        <div class="footer-col" aria-label="Réseaux sociaux">
+          <h4>Suivez-moi</h4>
+          <div class="social-icons">
+            <a href="https://www.facebook.com/canislupaeducationcanine">
+              <img src="assets/icons/facebook.svg" alt="Facebook" width="35" />
+            </a>
+            <a href="https://www.instagram.com/mary_canislupa/">
+              <img
+                src="assets/icons/instagram.svg"
+                alt="Instagram"
+                width="35"
+              />
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="footer-bottom" style="margin-top: 3rem">
+      <div class="footer-bottom-inner container">
+        <p>
+          © {{ site.time | date: "%Y" }} Canislupa - Tous droits réservés.
+          &nbsp;&nbsp;&nbsp;&nbsp;
+          <a href="/mentions-legales/">Mentions légales</a>
+          <span aria-hidden="true"> · </span>
+          <a href="/condition-general-vente/">Condition generale de vente</a>
+        </p>
+      </div>
+    </div>
+  </footer>
 </html>

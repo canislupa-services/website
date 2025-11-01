@@ -1,14 +1,7 @@
----
-layout: default
-title: Guide pour écrire en markdown
-description: écrire en markdown
-permalink: /markdown/
----
-
-écrire en **gras**, _italic_, or ~~strikethrough~~.
+# Guide d'écriture en Markdown
 
 
-[Guide SEO]({{ "/guide-seo-jekyll/" | relative_url }})
+Écrire en **gras**, _italic_, or ~~strikethrough~~.
 
 There should be whitespace between paragraphs.
 

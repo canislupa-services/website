@@ -7,7 +7,7 @@
 # plugins:
 # - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-title: Canislupa
+title: CANISLUPA
 description: Éduque et ballade ton chien
 # show_downloads: true
 # url: https://mon-domaine.fr        # ou https://user.github.io/mon-repo
@@ -16,11 +16,11 @@ lang: fr
 # timezone: Europe/Paris
 
 author:
-  name: mtalbrackets
+  name: canislupa
   # email: moi@example.com
   # url: https://mon-domaine.fr/a-propos
 
-# logo: /assets/img/logo.png
+logo: /assets/images/logo_canislupa.png
 
 # social:
 #   name: Mon Site
