@@ -1,103 +1,48 @@
-# Contributing to the Cayman theme
-
-Hi there! We're thrilled that you'd like to contribute to the Cayman theme. Your help is essential for keeping it great.
-
-the Cayman theme is an open source project supported by the efforts of an entire community and built one contribution at a time by users like you. We'd love for you to get involved. Whatever your level of skill or however much time you can give, your contribution is greatly appreciated. There are many ways to contribute, from writing tutorials or blog posts, improving the documentation, submitting bug reports and feature requests, helping other users by commenting on issues, or writing code which can be incorporated into the Cayman theme itself.
-
-Following these guidelines helps to communicate that you respect the time of the developers managing and developing this open source project. In return, they should reciprocate that respect in addressing your issue, assessing changes, and helping you finalize your pull requests.
+# Guide de contribution au site Canislupa
 
 
-## Looking for support?
-
-We'd love to help. Check out [the support guidelines](SUPPORT.md).
-
-## How to report a bug
-
-Think you found a bug? Please check [the list of open issues](https://github.com/pages-themes/cayman/issues) to see if your bug has already been reported. If it hasn't please [submit a new issue](https://github.com/pages-themes/cayman/issues/new).
-
-Here are a few tips for writing *great* bug reports:
-
-* Describe the specific problem (e.g., "widget doesn't turn clockwise" versus "getting an error")
-* Include the steps to reproduce the bug, what you expected to happen, and what happened instead
-* Check that you are using the latest version of the project and its dependencies
-* Include what version of the project your using, as well as any relevant dependencies
-* Only include one bug per issue. If you have discovered two bugs, please file two issues
-* Even if you don't know how to fix the bug, including a failing test may help others track it down
-
-**If you find a security vulnerability, do not open an issue. Please email security@github.com instead.**
-
-## How to suggest a feature or enhancement
-
-If you find yourself wishing for a feature that doesn't exist in the Cayman theme, you are probably not alone. There are bound to be others out there with similar needs. Many of the features that the Cayman theme has today have been added because our users saw the need.
-
-Feature requests are welcome. But take a moment to find out whether your idea fits with the scope and goals of the project. It's up to you to make a strong case to convince the project's developers of the merits of this feature. Please provide as much detail and context as possible, including describing the problem you're trying to solve.
-
-[Open an issue](https://github.com/pages-themes/cayman/issues/new) which describes the feature you would like to see, why you want it, how it should work, etc.
+### Code of conduct
+Ce projet est régi par le code de conduite du [Contributor Covenant](https://www.contributor-covenant.org/fr/version/2/1/code_of_conduct/). En participant, vous vous engagez à respecter ce code.
 
 
+### Vous avez trouvé un bug ou souhaitez suggérer une idée ?
+Vérifiez d'abord que le bug n'a pas déjà été signalé dans les [Issues](https://github.com/canislupa-services/website/issues).     
+Sinon, créez une nouvelle issue avec un titre clair, une description et autant d'informations que possible.
 
-## Your first contribution
+### Comment titrer vos commits ?
+Un commit sert à décrire et enregistrer le changement que vous venez d'apporter au projet. Vous pouvez soit utiliser la [convention de commit](https://www.conventionalcommits.org/) standard, soit simplement avoir une petite desciption clair avec un résumé court du changement (≤ 50 caractères).
 
-We'd love for you to contribute to the project. Unsure where to begin contributing to the Cayman theme? You can start by looking through these "good first issue" and "help wanted" issues:
+Exemple de message de commit :   
+`"Ajout d'une adresse dans la page contact"`
 
-* [Good first issues](https://github.com/pages-themes/cayman/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) - issues which should only require a few lines of code and a test or two
-* [Help wanted issues](https://github.com/pages-themes/cayman/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) - issues which may be a bit more involved, but are specifically seeking community contributions
-
-*p.s. Feel free to ask for help; everyone is a beginner at first* :smiley_cat:
-
-## How to propose changes
-
-Here's a few general guidelines for proposing changes:
-
-* If you are making visual changes, include a screenshot of what the affected element looks like, both before and after.
-* Follow the [Jekyll style guide](https://ben.balter.com/jekyll-style-guide).
-* If you are changing any user-facing functionality, please be sure to update the documentation
-* Each pull request should implement **one** feature or bug fix. If you want to add or fix more than one thing, submit more than one pull request
-* Do not commit changes to files that are irrelevant to your feature or bug fix
-* Don't bump the version number in your pull request (it will be bumped prior to release)
-* Write [a good commit message](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
-
-At a high level, [the process for proposing changes](https://guides.github.com/introduction/flow/) is:
-
-1. [Fork](https://github.com/pages-themes/cayman/fork) and clone the project
-2. Configure and install the dependencies: `script/bootstrap`
-3. Make sure the tests pass on your machine: `script/cibuild`
-4. Create a new branch: `git checkout -b my-branch-name`
-5. Make your change, add tests, and make sure the tests still pass
-6. Push to your fork and [submit a pull request](https://github.com/pages-themes/cayman/compare)
-7. Pat your self on the back and wait for your pull request to be reviewed and merged
-
-**Interesting in submitting your first Pull Request?** It's easy! You can learn how from this *free* series [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github)
-
-## Bootstrapping your local development environment
-
-`script/bootstrap`
-
-## Running tests
-
-`script/cibuild`
-
-## Publishing Gem
-In order to publish the Gem bump the version in *this file*, commit, create a tag with the new version number, and finally push the commit and tag to the repo.
-
-## Code of conduct
-
-This project is governed by [the Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
-
-## Additional Resources
-
-* [Contributing to Open Source on GitHub](https://guides.github.com/activities/contributing-to-open-source/)
-* [Using Pull Requests](https://help.github.com/articles/using-pull-requests/)
-* [GitHub Help](https://help.github.com)
+### Vous voulez apporter une contribution au site et soummettre une Pull Request ?
+1. Créez une nouvelle [branche](https://conventional-branch.github.io/):   
+`git checkout -b my-branch-name`
+2. Implémentez vos modifications ou correctifs dans cette branche
+3. Valider la check liste ci-dessous
+3. Soumettre votre PR et attendre les relecture des administrateurs
 
 
-## Lancer le projet en local
+**Check-list avant de proposer une PR**
+ - Le site en local démarre sans erreur.
+ - Aucune erreur dans la console du navigateur.
+ - L'affichage est correct sur mobile et desktop.
+ - Les liens et images fonctionnent.
+ - Le code respecte le style du projet.
+
+### Lancer le projet en local
+ Prérequis : Installer [Ruby](https://www.ruby-lang.org/fr/documentation/installation/)
 
 ```sh
+# bootstrapping your local development environment
 ruby -v
 gem -v
 bundler -v
 
+# install the dependencies:
+script/bootstrap
+# Make sure the tests pass on your machine
+script/cibuild
 
 # télécharger et installer jekyll, github-pages, jekyll-seo-tag, etc.
 # + un fichier Gemfile.lock pour verrouiller les versions.
@@ -106,4 +51,19 @@ bundle exec jekyll serve --livereload --baseurl ""
 
 ```
 
+ ### Docs utils :
+ - [Jekyll style guide](https://ben.balter.com/jekyll-style-guide)
+ - [Soumettre une Pull Requests](https://help.github.com/articles/using-pull-requests/)
+ - [GitHub Help](https://help.github.com)
 
+
+### Licence et crédits
+En contribuant, vous acceptez [la licence](../LICENSE) tous droits réservés du projet. 
+
+
+### Contact
+Des questions ? Ouvrez une [Issues](https://github.com/canislupa-services/website/issues).
+
+
+### 💚 MERCI !   
+Pour votre contribution et votre implication et n'hésitez pas à demander de l'aide, tout le monde a été débutant un jour !
