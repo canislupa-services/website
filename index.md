@@ -16,7 +16,7 @@ Je vous propose mes services à Saint-Étienne et alentours.
 
 <section class="cards">
   <article class="card">
-    <img src="/assets/images/mes-services-educ.jpg" alt="Éducation canine" class="card-img">
+    <img src="./assets/images/mes-services-educ.jpg" alt="Éducation canine" class="card-img">
     <div class="card-content">
       <h4>Éducation canine</h4>
       <p>Rééducation, étude du comportement, séances individuelles ou collectives, méthode positive basée sur l'encouragement.</p>
@@ -25,7 +25,7 @@ Je vous propose mes services à Saint-Étienne et alentours.
   </article>
 
   <article class="card">
-    <img src="/assets/images/dog.jpg" alt="Dogsitting" class="card-img">
+    <img src="./assets/images/dog.jpg" alt="Dogsitting" class="card-img">
     <div class="card-content">
       <h4>Dogsitting</h4>
       <p>Gardes à domicile, balades individuelles ou collectives, centre aéré pour chiens.</p>
@@ -34,7 +34,7 @@ Je vous propose mes services à Saint-Étienne et alentours.
   </article>
 
   <article class="card">
-    <img src="/assets/images/pourquoi.jpg" alt="Programme PECCRAM" class="card-img"> <!-- corrigé: slash initial -->
+    <img src="./assets/images/pourquoi.jpg" alt="Programme PECCRAM" class="card-img"> <!-- corrigé: slash initial -->
     <div class="card-content">
       <h4>Programme PECCRAM</h4>
       <p>Programme d'éducation à la prévention des morsures pour enfants.</p>
