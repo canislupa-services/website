@@ -56,7 +56,9 @@ J'ai passé 3 ans sans chien, mais continué le dogsitting et j'ai développé u
 En 2023, **Tao** est entré dans ma vie avec perte et fracas. Cane Corso x Malinois, maltraité, puis a passé quelques années en refuge. Tao c'est 40kg de muscles, mais dans son cœur, la peur. Il explose, il agresse.  
 
 **Tao** a accéléré ma formation, ma lecture de la communication canine. **Il est celui qui m'a fait autant douter que progresser dans mon métier d'éducatrice**.   
-C'est grâce à lui que je sais ce que vous vivez quand vous avez un chien réactif / peureux / agressif. Je connais votre quotidien, les douleurs au corps lorsqu'il tire sur la laisse, le désespoir au retour d'une balade catastrophique, la fatigue, l'énervement, le stress ou la tristesse, et les questions terribles qu'on se pose. Est-il fait pour vivre avec moi? Est-ce que je le rend malheureux? Devrais-je le donner? Si il mord quelqu'un, un enfant, un chien? Que dois-je faire?
+C'est grâce à lui que je sais ce que vous vivez quand vous avez un chien réactif / peureux / agressif. Je connais votre quotidien, les douleurs au corps lorsqu'il tire sur la laisse, le désespoir au retour d'une balade catastrophique, la fatigue, l'énervement, le stress ou la tristesse, et les questions terribles qu'on se pose. Est-il fait pour vivre avec moi? Est-ce que je le rend malheureux? Devrais-je le donner? Si il mord quelqu'un, un enfant, un chien? Que dois-je faire?  
+
+Du coup je sais aussi comment améliorer cette situation et que vous retrouviez une vie harmonieuse!
 
 
 
