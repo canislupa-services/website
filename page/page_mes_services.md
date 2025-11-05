@@ -38,9 +38,9 @@ Elle dure environ 1H, à ton domicile, dans ton quartier, dans un parc… en fon
 
  **PECCRAM** :
   Programme d’Éducation à la Connaissance du Chien et au Risque d'Accident par Morsure, créé par Chantal Hazard (FIMAC).    
-Objectifs :
-  Prévenir les accidents auprès des enfants de 4 à 10 ans.
-  Apprendre à reconnaître le langage canin et à se comporter face à un chien.
+Objectifs :  
+  Prévenir les accidents auprès des enfants de 4 à 10 ans.  
+  Apprendre à reconnaître le langage canin et à se comporter face à un chien.  
 
 **Quelques chiffres :**  
 - 50% des enfants 3–5 ans confondent un chien stressé et joyeux  
@@ -49,6 +49,7 @@ Objectifs :
 - Localisation fréquente : visage, crâne, coup
 
 [← Retour]({{ "/" | relative_url }})
+
 
 
 
