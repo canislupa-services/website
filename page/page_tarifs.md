@@ -34,10 +34,10 @@ Accompagnement quotidien après les séances :
 30 min/jour si besoin
 
 **Exemple :**   
-Bilan comportmental 50€   
-+ Forfait 5 séances 205€ (séparées d'1 à 2 semaines)
-+ 14 suivis de 30min = 245€ (soit 1 à 2 par semaine)
-TOTAL suivi premium = 495€
++ Bilan comportmental 50€   
++ Forfait 5 séances 205€ (séparées d'1 à 2 semaines)    
++ 14 suivis de 30min = 245€ (soit 1 à 2 par semaine)    
+**TOTAL** suivi premium = **495€**
 
 
 ## Tarifs — Dogsitting
