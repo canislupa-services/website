@@ -36,7 +36,7 @@ Elle dure environ 1H, à ton domicile, dans ton quartier, dans un parc… en fon
 
 ### Prévention morsure (PECCRAM)
 
- **PECCRAM** :
+ **PECCRAM** :  
   Programme d’Éducation à la Connaissance du Chien et au Risque d'Accident par Morsure, créé par Chantal Hazard (FIMAC).    
 Objectifs :  
   Prévenir les accidents auprès des enfants de 4 à 10 ans.  
@@ -49,6 +49,7 @@ Objectifs :
 - Localisation fréquente : visage, crâne, coup
 
 [← Retour]({{ "/" | relative_url }})
+
 
 
 
