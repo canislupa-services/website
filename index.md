@@ -4,15 +4,15 @@ title: Bienvenue chez Canislupa !
 description: Éducation canine, rééducation, dogsitting, prévention des morsures…
 ---
 
-## Éducation canine à Saint-Etienne 
+## Éducation canine à Saint-Étienne
 
-Ici tu trouveras une éducatrice canin & comportementaliste:  
+Ici tu trouveras une éducatrice canin & comportementaliste :
 
 - 🌿 Avec une approche **bienveillante et respectueuse** du chien
 - 🐶 Qui met en place un suivi **personnalisé** pour chaque duo humain-chien
-- 💚 Se passionne pour une **relation harmonieuse**  
+- 💚 Se passionne pour une **relation harmonieuse**
 
-  Pourquoi faire appel à moi?
+<a class="bouton-vert" href="{{ '/educatrice-canin/' | relative_url }}">Pourquoi faire appel à moi ?</a>
 
 <section class="cards">
   <article class="card">
@@ -34,7 +34,7 @@ Ici tu trouveras une éducatrice canin & comportementaliste:
   </article>
 
   <article class="card">
-    <img src="./assets/images/jeu-de-chien.JPG" alt="Programme PECCRAM chiens qui jouent malinois labrador enfant morsure école prévention" class="card-img"> <!-- corrigé: slash initial -->
+    <img src="./assets/images/jeu-de-chien.JPG" alt="Programme PECCRAM chiens qui jouent malinois labrador enfant morsure école prévention" class="card-img">
     <div class="card-content">
       <h4>Programme PECCRAM</h4>
       <p>Programme d'éducation à la prévention des morsures pour enfants.</p>
