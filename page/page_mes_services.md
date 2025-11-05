@@ -13,12 +13,12 @@ permalink: /services/
 - **Méthode positive basée sur l’encouragement**
 
 Comment se déroule un suivi d'éducation ? 
-### Le bilan comportemental
+#### Le bilan comportemental
 Premier RDV, obligatoire avant de commencer des séances d’éducation. Le bilan me permet de te connaitre, connaitre ton chien, et votre cadre de vie. Je ne suis pas là pour juger ton mode de vie avec ton chien, mais pour comprendre vos besoins communs.   
 
 Un bilan dure environ 1H30, il se déroule à ton domicile.
 
-### La séance d'éducation
+#### La séance d'éducation
 Une séance comprend:
  - Un moment d’échange pour parler de ce qui a évolué depuis notre dernier Rdv, pour poser tes questions, pour démêler ce qui n’aurait pas été compris avant.
  - Un moment où je vois si les exercices proposés précédemment ont été bien intégrés, si ce n’est pas le cas, soit on les changera, soit on les revoit.
@@ -49,6 +49,7 @@ Objectifs :
 - Localisation fréquente : visage, crâne, coup
 
 [← Retour]({{ "/" | relative_url }})
+
 
 
 
