@@ -3,53 +3,20 @@ name: Build and Deploy Jekyll site
 on:
   push:
     branches:
-      - main  # déploie uniquement quand on push sur main
+      - main
   pull_request:
     types: [opened, synchronize]
-
-permissions:
-  contents: read
-  pages: write
-  id-token: write
-
-concurrency:
-  group: "pages"
-  cancel-in-progress: true
-
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: Build Jekyll site
+    name: script/cibuild
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Setup Ruby
-        uses: ruby/setup-ruby@v1
+      - uses: actions/checkout@v2
+      - uses: ruby/setup-ruby@v1
         with:
           ruby-version: 3.2
           bundler-cache: true
-
-      - name: Install dependencies
+      - name: build
         run: script/bootstrap
-
-      - name: Build site with Jekyll
-        run: |
-          bundle exec jekyll build -d ./_site
-
-      - name: Upload built site
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: ./_site
-
-  deploy:
-    name: Deploy to GitHub Pages
-    runs-on: ubuntu-latest
-    needs: build
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - name: Deploy
-        id: deployment
-        uses: actions/deploy-pages@v4
+      - name: test
+        run: script/cibuild

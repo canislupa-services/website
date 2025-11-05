@@ -18,8 +18,10 @@ permalink: /tarifs/
  Se déroule à ton domicile, dans ton quartier, dans un parc...  
  Durée: environ 1H
 
-**Déplacements** : + 0,50€/km  
- Au-delà de 10km A/R de Saint-Étienne \_ expl : Saint Genest Lerpt 14km A/R +2€
+**Déplacements** :  
+Les 10 premiers kilomètres (A/R) depuis Saint-Étienne sont inclus.  
+Au-delà, un supplément de 0,50 €/km s’applique.  
+Exemple : Saint-Genest-Lerpt (14 km A/R) 🠖 +2 €.
 
 ### Forfaits
 

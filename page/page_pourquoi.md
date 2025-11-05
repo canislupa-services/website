@@ -54,6 +54,6 @@ Lorsqu'un chien n'a pas été bien socialisé (= lui montrer le monde qui l'ento
 
 **Quelque soit l'apprentissage nécessaire à mettre en place, je ne vais jamais passer par des méthodes punitives, je n'utilise pas la violence, les saccades, les coups, les cris, la pression, la peur... Et pourtant, j'ai aidé de nombreux binômes Chien-Humain à vivre sereinement, à commencer par moi-même**
 
-<button class="bouton-vert">Qui suis-je</button>
+<a class="bouton-vert" href="{{ '/qui-suis-je/' | relative_url }}">Qui suis-je</a>
 
 [← Retour]({{ "/" | relative_url }})
