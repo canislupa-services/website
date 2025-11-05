@@ -4,19 +4,19 @@ title: Bienvenue chez Canislupa !
 description: Éducation canine, rééducation, dogsitting, prévention des morsures…
 ---
 
-## Faire appel à une éducatrice canin
+## Éducation canine à Saint-Etienne 
 
-Je vous propose mes services à Saint-Étienne et alentours.
+Ici tu trouveras une éducatrice canin & comportementaliste:  
 
-### Pourquoi me choisir ?
+- 🌿 Avec une approche **bienveillante et respectueuse** du chien
+- 🐶 Qui met en place un suivi **personnalisé** pour chaque duo humain-chien
+- 💚 Se passionne pour une **relation harmonieuse**  
 
-- 🌿 Approche **bienveillante et respectueuse** du chien
-- 🐶 Suivi **personnalisé** pour chaque duo humain-chien
-- 💚 Passion pour une **relation harmonieuse**
+  Pourquoi faire appel à moi?
 
 <section class="cards">
   <article class="card">
-    <img src="./assets/images/mes-services-educ.jpg" alt="Education canin"  class="card-img">
+    <img src="./assets/images/mes-services-educ.jpg" alt="Education canine bouledogue americain donne la patte molosse obéissance"  class="card-img">
     <div class="card-content">
       <h4>Éducation canine</h4>
       <p>Rééducation, étude du comportement, séances individuelles ou collectives, méthode positive basée sur l'encouragement.</p>
@@ -25,7 +25,7 @@ Je vous propose mes services à Saint-Étienne et alentours.
   </article>
 
   <article class="card">
-    <img src="./assets/images/dog.jpg" alt="Bergé australien poils blanc et marrons" class="card-img">
+    <img src="./assets/images/dog.jpg" alt="Berger australien robe tricolore" class="card-img">
     <div class="card-content">
       <h4>Dogsitting</h4>
       <p>Gardes à domicile, balades individuelles ou collectives, centre aéré pour chiens.</p>
@@ -34,7 +34,7 @@ Je vous propose mes services à Saint-Étienne et alentours.
   </article>
 
   <article class="card">
-    <img src="./assets/images/pourquoi.jpg" alt="Programme PECCRAM" class="card-img"> <!-- corrigé: slash initial -->
+    <img src="./assets/images/mes-services-dogsit.jpg" alt="Programme PECCRAM chiot staffie enfant morsure de chien école prévention" class="card-img"> <!-- corrigé: slash initial -->
     <div class="card-content">
       <h4>Programme PECCRAM</h4>
       <p>Programme d'éducation à la prévention des morsures pour enfants.</p>
