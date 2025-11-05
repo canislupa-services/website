@@ -2,7 +2,7 @@
 layout: default
 title: Education canine
 description: education canine
-permalink: /education/
+permalink: /educatrice-canin/
 ---
 
 ## Pourquoi faire appel à une éducatrice canin ?
