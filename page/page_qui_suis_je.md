@@ -41,19 +41,22 @@ MARY
 
 ## Mon parcours
 
-J'ai commencé le dogsitting avec **Plume**, l'Épagneule du voisin, au lycée.
+J'ai commencé le dogsitting avec Plume, c'était l’Épagneule du voisin. Je la promenais en rentrant du
+lycée, ou bien c'était elle qui me promenait...😊
+   
+Puis ne voulant plus vivre sans chien, pendant des années j'ai gardé des chiens chez moi, à domicile, fais les sorties, les câlins.   
 
-Ensuite, j'ai gardé des chiens à domicile pendant des années.  
-En 2006, j'ai adopté **Maiitsoh**, mon premier chien. J'ai dû tout apprendre et fait appel à un comportementaliste.
+En 2006, j'ai adopté mon premier chien, **Maiitsoh**, il avait 6 semaines. J’ai du tout apprendre pour lui, j'ai fait appel à un comportementaliste  pour m’aider.  
+J'ai au même moment commencé à être famille d'accueil. J'avais régulièrement  des chiens pendant plusieurs mois en plus du mien.  
 
-Puis j'ai été famille d'accueil pour des chiens, parfois pendant plusieurs mois.
+La vieillesse de **Maiitsoh** m'a poussée à me pencher sur la santé du chien senior. Sa perte m'a profondément marquée.
 
-La vieillesse de **Maiitsoh** m'a poussée à me former sur la santé du chien âgé. Sa perte m'a profondément marquée.
+J'ai passé 3 ans sans chien, mais continué le dogsitting et j'ai développé un peu plus mon intérêt pour le comportement canin.  
 
-J'ai passé 3 ans sans chien mais toujours en dogsitting, avec un intérêt croissant pour le comportement canin.
+En 2023, **Tao** est entré dans ma vie avec perte et fracas. Cane Corso x Malinois, maltraité, puis a passé quelques années en refuge. Tao c'est 40kg demuscles, et dans son cœur, la peur, l'angoisse. Il explose, il agresse.
 
-En 2023, **Tao** est arrivé : Cane Corso x Malinois, traumatisé. Il m'a poussée à me former plus intensément.   
-**Tao est celui qui m'a fait autant douter que progresser** dans ce métier.
+**Tao** a accéléré ma formation, ma lecture de la communication canine. **Il est celui qui m'a fait autant douter que progresser dans mon métier d'éducatrice**.   
+C'est grâce à lui que je sais ce que vous vivez quand vous avez un chien réactif / peureux / agressif. Je connais votre quotidien, les douleurs au corps lorsqu'il tire sur la laisse, le désespoir au retour d'une balade catastrophique, la fatigue, l'énervement, le stress ou la tristesse, et les questions terribles qu'on se pose. Est-il fait pour vivre avec moi? Est-ce que je le rend malheureux? Devrais-je le donner? Si il mord quelqu'un, un enfant, un chien? Que dois-je faire?
 
 
 
