@@ -40,9 +40,12 @@ gem -v
 bundler -v
 
 # install the dependencies:
-script/bootstrap
+./script/bootstrap
 # Make sure the tests pass on your machine
-script/cibuild
+./script/cibuild
+
+# lancer en local
+./script/server
 
 # télécharger et installer jekyll, github-pages, jekyll-seo-tag, etc.
 # + un fichier Gemfile.lock pour verrouiller les versions.
