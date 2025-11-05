@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Les services canislupa
-description: services education canin
+description: services education canine
 permalink: /services/
 ---
 
@@ -36,10 +36,10 @@ Elle dure environ 1H, à ton domicile, dans ton quartier, dans un parc… en fon
 
 ### Prévention morsure (PECCRAM)
 
-- PECCRAM est un programme reconnu d’éducation à la connaissance du chien et à la prévention des morsures, créé par Chantal Hazard (FIMAC).
-  > Objectif : prévenir les accidents auprès des enfants de 4 à 10 ans.
-
-- Apprendre à reconnaître le langage canin et à se comporter face à un chien.
+- PECCRAM : Programme d’Éducation à la Connaissance du Chien et au Risque d'Accident par Morsure, créé par Chantal Hazard (FIMAC).
+  Objectif :
+  > prévenir les accidents auprès des enfants de 4 à 10 ans.
+  > Apprendre à reconnaître le langage canin et à se comporter face à un chien.
 
 **Quelques chiffres :**  
 - 50% des enfants 3–5 ans confondent un chien stressé et joyeux  
@@ -48,5 +48,6 @@ Elle dure environ 1H, à ton domicile, dans ton quartier, dans un parc… en fon
 - Localisation fréquente : visage, crâne, coup
 
 [← Retour]({{ "/" | relative_url }})
+
 
 
