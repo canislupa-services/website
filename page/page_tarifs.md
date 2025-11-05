@@ -8,10 +8,11 @@ permalink: /tarifs/
 ## Tarifs — Éducation canine
 
 **Bilan comportemental** : 50€   
-Premier RDV, obligatoire avant de commencer des séances d'éducation. Le bilan me permet de te connaitre, connaitre ton chien, et votre cadre de vie. Je ne suis pas là pour juger ton mode de vie avec ton chien, mais bien comprendre vos besoins communs.   
-Un bilan dure environ 1H30, il se déroule à ton domicile.   
+    Premier RDV obligatoire avant de commencer un suivi.   
+    Durée: environ 1H30, à ton domicile.    
 
-**Tarif spécial** : bilan à 30€ pour les chiens adoptés en refuge/association de protection animale depuis moins de 6 mois   
+**Tarif spécial** :    
+    Bilan à 30€ pour les chiens adoptés en refuge/association de protection animale depuis moins de 6 mois.    
 
 **Séance d’éducation**  : 45€  
 Une séance comprend:   
