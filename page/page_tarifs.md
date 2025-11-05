@@ -23,9 +23,9 @@ permalink: /tarifs/
 
 ### Forfaits
 
-- 3 séances : 130€ (apprentissages de base)  
-- 5 séances : 205€ (rééducation)  
-- 8 séances : 310€ (comportement)  
+- Pour les aapprentissages de base: 3 séances 🠖 130€  
+- Pour la rééducation :  5 séances 🠖 205€  
+- Pour des problèmes comportementaux : 8 séances 🠖 310€  
 - 10 séances et + : 35€/séance
 
 ### Suivi Premium
