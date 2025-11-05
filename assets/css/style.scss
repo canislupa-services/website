@@ -57,12 +57,18 @@ h3 {
 
 h4 {
   font-size: 1.8rem;
+  color: #555
 }
 /* HEADER */
 .header {
   background: #c3e839;
   color: var(--text);
   padding-bottom: 1rem;
+}
+
+.header-description {
+  font-weight: 700;
+  font-size:larger;
 }
 
 .header-content {
@@ -136,6 +142,32 @@ h4 {
 
 main h2, main h3 {
   color: var(--dark-green);
+}
+
+/* CALL TO ACTION */
+
+.bouton-vert {
+  background-color: #618a3d;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  padding: 12px 24px;
+  font-size: 18px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s ease, box-shadow 0.2s ease;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
+}
+
+.bouton-vert:hover {
+  background-color: #7cab4a;
+  transform: scale(1.05);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+}
+
+.bouton-vert:active {
+  background-color: #4d6e30;
+  transform: scale(0.97);
 }
 
 
@@ -224,7 +256,7 @@ footer a:hover {
 /* Bande supérieure */
 .footer-grid { display: grid; gap: 2rem; grid-template-columns: repeat(12, 1fr); align-items:start; }
 .footer-col { grid-column: span 4; }
-.footer-col h4 { margin: 0 0 .75rem 0; text-transform: uppercase; letter-spacing: .08em; }
+.footer-col h4 { margin: 0 0 .75rem 0; text-transform: uppercase; letter-spacing: .08em; color: #FFF;}
 .footer-list { list-style: none; padding: 0; margin: 0; display: grid; gap: .5rem; }
 
 /* (copyright) */
