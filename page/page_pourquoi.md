@@ -33,12 +33,12 @@ Pour pouvoir faire des séances ensemble, on devra d'abord faire un ## bilan com
  
 ## Base éducative
 
-Un chien peu apprendre toute sa vie, comme nous. Il nous suffira de quelques séances pour mettre en place des bases. 
-Les bases éducatives sont nécessaires à une vie commune harmonieuse. Attention, ce n'est pas du dressage! Ici tu apprend:   
-A comprendre les mécanisme d'apprentissage de ton chien   
-Décrypter ses émotions   
-Bien le socialiser (chiens, humains, ville, voitures...)   
-Lui faire comprendre ce que tu attends de lui   
+Un chien peu apprendre toute sa vie, comme nous. Il nous suffira de quelques séances pour mettre en place des bases.  
+Les bases éducatives sont nécessaires à une vie commune harmonieuse. Attention, ce n'est pas du dressage! Même si tout ça passe par des exercices, ici tu apprends:   
+-À comprendre les mécanismes d'apprentissage de ton chien   
+-Décrypter ses émotions   
+-Bien le socialiser (chiens, humains, ville, voitures...)   
+-Lui faire comprendre ce que tu attends de lui   
  
 Si ton chien a des problèmes de comportement on ne pourra pas uniquement travailler sur des bases éducatives, il faudra passer par la rééducation.
 
@@ -57,5 +57,6 @@ Lorsqu'un chien n'a pas été bien socialisé (= lui montrer le monde qui l'ento
 
 
 [← Retour]({{ "/" | relative_url }})
+
 
 
