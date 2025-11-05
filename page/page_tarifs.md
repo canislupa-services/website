@@ -8,20 +8,18 @@ permalink: /tarifs/
 ## Tarifs — Éducation canine
 
 **Bilan comportemental** : 50€   
-    Premier RDV obligatoire avant de commencer un suivi.   
-    Durée: environ 1H30, à ton domicile.    
+  Premier RDV obligatoire avant de commencer un suivi.   
+  Durée: environ 1H30, à ton domicile.    
 
-**Tarif spécial** :    
-    Bilan à 30€ pour les chiens adoptés en refuge/association de protection animale depuis moins de 6 mois.    
+**Tarif spécial** : 30€    
+  Bilan à 30€ pour les chiens adoptés en refuge/association de protection animale depuis moins de 6 mois.    
 
-**Séance d’éducation**  : 45€  
-Une séance comprend:   
-Un moment d'échange pour parler de ce qui a évolué depuis notre dernier Rdv, pour poser tes questions, pour démêler ce qui n'aurait pas été compris avant.   
-Un moment où je vois si les exercices proposés précédemment ont été bien intégrés, si ce n'est pas le cas, soit on les changera, soit on les revoit.   
-Un moment où je te propose de nouveaux exercices et/ou un moment de décryptage de comportement   
-Elle dure environ 1H, à ton domicile, dans ton quartier, dans un parc... en fonction de ce qu'on a besoin de travailler   
+**Séance d’éducation**  : 45€   
+  Se déroule à ton domicile, dans ton quartier, dans un parc...    
+  Durée:  environ 1H
 
-**Déplacements** : + 0,50€/km au-delà de 10km A/R de Saint-Étienne _ expl : Saint Genest Lerpt 14km A/R +2€
+**Déplacements** : + 0,50€/km    
+  Au-delà de 10km A/R de Saint-Étienne _ expl : Saint Genest Lerpt 14km A/R +2€   
 
 ### Forfaits
 
@@ -41,6 +39,7 @@ Bilan comportmental 50€
 + 14 suivis de 30min = 245€ (soit 1 à 2 par semaine)
 TOTAL suivi premium = 495€
 
+
 ## Tarifs — Dogsitting
 
 **Balades individuelles / visites à domicile**  
@@ -57,6 +56,7 @@ TOTAL suivi premium = 495€
 - 3 balades de 30min dans mon quartier  
 - 50€ / jour  
 - +10€ / nuitée
+
 
 ## Tarifs — PECCRAM
 
