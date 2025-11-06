@@ -28,13 +28,14 @@ Elle dure environ 1H, à ton domicile, dans ton quartier, dans un parc… en fon
 
 [En savoir plus]({{ "/education/" | relative_url }})
 
-![dogsitting](../assets/images/mes-services-dogsit.jpg)
 
 ### Dogsitting
 - Gardes à domicile  
 - Balades individuelles ou collectives  
 - Accueil type « centre aéré » pour chiens  
 [Voir mes tarifs]({{ "/tarifs/" | relative_url }})
+
+![dogsitting](../assets/images/mes-services-dogsit.jpg)
 
 ### Prévention morsure (PECCRAM)
 
