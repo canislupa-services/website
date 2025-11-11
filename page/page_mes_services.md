@@ -39,13 +39,14 @@ Une séance peut-être donné seule ou dans le cadre d'un forfait, elle comprend
 
 #### Le suivi premium   
 
-Pour les personnes pas à l'aise de travailler l'éducation seules entre chaque séance d'éducation.  
+Pas à l'aise de travailler l'éducation seul-e entre chaque séance d'éducation?  
+Tu peux opter pour un suivi premium:  
  - Un suivi quotidien si besoin
  - Un accompagnement plus précis
  - Une évolution plus rapide
 
-🐾 Durée: environ 1H  
-🐾 Où: domicile, quartier, parc,...
+🐾 Durée: environ 30 min  
+🐾 Où: domicile, quartier, parc, ...
 
 
 ### Dogsitting
@@ -55,7 +56,7 @@ Ponctuel ou régulier, selon tes besoins, je peux m'adapter à tes demandes:
  - Balades individuelles ou collectives  
  - Accueil type « centre aéré » pour chiens
 
-🐾 Durée: de 30min à plusieurs heure  
+🐾 Durée: de 30min à plusieurs heures  
 🐾 Où: domicile, quartier, parc, forêt, ...
 
 [Voir mes tarifs]({{ "/tarifs/" | relative_url }})   
@@ -88,6 +89,7 @@ Déroulé d'une séance:
 - Localisation fréquente : visage, crâne, coup
 
 [← Retour]({{ "/" | relative_url }})
+
 
 
 
