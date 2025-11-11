@@ -23,10 +23,12 @@ Ton chien...
 - Mord les invités 🐊
 - Fait caca dans la cuisine 💩
 - Fugue dès que tu as le dos tourné
-- A mordu tes enfants![jeu tao](../assets/images/pourquoi.jpg)
+- A mordu tes enfants  
+
+  ![jeu tao](../assets/images/pourquoi.jpg)
 
 Et tout ce qui gêne ta vie commune peut être une raison de venir me voir.  
-Mes méthodes d'éducation sont basées sur l'encouragement du chien. Je cherche à comprendre pourquoi il agit comme il le fait, je t'aide à déchiffrer ses signaux de communication, puis je te propose des séances pour travailler avec ton chien. Je n'éduque pas ton chien sans toi, tu dois participer aux séances.
+Mes méthodes d'éducation sont basées sur l'**encouragement du chien**. Je cherche à comprendre pourquoi il agit comme il le fait, je t'aide à déchiffrer ses signaux de communication, puis je te propose des séances pour travailler avec ton chien. Je n'éduque pas ton chien sans toi, tu dois participer aux séances.
 
 ## Mise en place d'un suivi
 
@@ -34,7 +36,7 @@ Pour pouvoir faire des séances ensemble, on devra d'abord faire un bilan compor
 
 ### Base éducative
 
-Un chien peu apprendre toute sa vie, comme nous. Il nous suffira de quelques séances pour mettre en place des bases.  
+Un chien peut apprendre toute sa vie, comme nous. Il nous suffira de quelques séances pour mettre en place des bases.  
 Les bases éducatives sont nécessaires à une vie commune harmonieuse. Attention, ce n'est pas du dressage! Même si tout ça passe par des exercices, ici tu apprends:  
 -À comprendre les mécanismes d'apprentissage de ton chien  
 -Décrypter ses émotions  
@@ -57,5 +59,6 @@ Lorsqu'un chien n'a pas été bien socialisé (= lui montrer le monde qui l'ento
 <a class="bouton-vert" href="{{ '/qui-suis-je/' | relative_url }}">Qui suis-je</a>
 
 [← Retour]({{ "/" | relative_url }})
+
 
 
