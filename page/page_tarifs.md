@@ -47,9 +47,7 @@ permalink: /tarifs/
   🐾 Où: domicile, quartier, parc,...  
 
 *Exemple :*   
-  Bilan comportmental 50€  
- ➕ Forfait 5 séances 205€ (séparées d'1 à 2 semaines)  
- ➕ 10 suivis de 30min = 190€ (soit 1 à 2 par semaine)  
+  Bilan comportmental 50€ ➕ Forfait 5 séances 205€ ➕ 10 suivis de 30min 190€  
 *TOTAL suivi premium = 445€*  
 
 ## Tarifs — Dogsitting
@@ -75,10 +73,10 @@ permalink: /tarifs/
 
 ## Tarifs — PECCRAM
 
-🐾 1 séance (1h) : 70€
-🐾 1 séance (2h) : 130€
-🐾 2 séances (4h total) : 230€
-🐾 Forfait 5 séances (5h) : 275€
-🐾 Forfait 6 séances (6h) : 330€
+🐾 1 séance (1h) : 70€  
+🐾 1 séance (2h) : 130€  
+🐾 2 séances (4h total) : 230€  
+🐾 Forfait 5 séances (5h) : 275€  
+🐾 Forfait 6 séances (6h) : 330€  
 
 [← Retour]({{ "/" | relative_url }})
