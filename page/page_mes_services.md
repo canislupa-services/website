@@ -62,7 +62,7 @@ Ponctuel ou régulier, selon tes besoins, je peux m'adapter à tes demandes:
 [Voir mes tarifs]({{ "/tarifs/" | relative_url }})   
 
 
-![dogsitting](../assets/images/mes-services-dogsit.jpg)   
+![dogsitting](../assets/images/chiot-en-laisse.jpg)   
 
 
 ### Prévention morsure (PECCRAM)
@@ -89,6 +89,7 @@ Déroulé d'une séance:
 - Localisation fréquente : visage, crâne, coup
 
 [← Retour]({{ "/" | relative_url }})
+
 
 
 
