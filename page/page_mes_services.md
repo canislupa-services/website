@@ -7,24 +7,30 @@ permalink: /services/
 
 ## Mes services
 
-### Éducation canine
-- Rééducation, étude du comportement  
+### Éducation canine   
+- Éducation, rééducation, étude du comportement  
 - Séances individuelles et cours collectifs  
 - **Méthode positive basée sur l’encouragement**
 
-Comment se déroule un suivi d'éducation ? 
-#### Le bilan comportemental
-Premier RDV, obligatoire avant de commencer des séances d’éducation. Le bilan me permet de te connaitre, connaitre ton chien, et votre cadre de vie. Je ne suis pas là pour juger ton mode de vie avec ton chien, mais pour comprendre vos besoins communs.   
+[Comment se déroule un suivi éducatif et comportemental ?].({{ "/pourquoi/" | relative_url }})     
 
-Un bilan dure environ 1H30, il se déroule à ton domicile.
+   #### Le bilan comportemental  
 
-#### La séance d'éducation
-Une séance comprend:
- - Un moment d’échange pour parler de ce qui a évolué depuis notre dernier Rdv, pour poser tes questions, pour démêler ce qui n’aurait pas été compris avant.
- - Un moment où je vois si les exercices proposés précédemment ont été bien intégrés, si ce n’est pas le cas, soit on les changera, soit on les revoit.
- - Un moment où je te propose de nouveaux exercices et/ou un moment de décryptage de comportement
+Premier RDV, obligatoire avant de commencer des séances d’éducation:    
+- Pour te connaitre, connaitre ton chien, et votre cadre de vie  
+- Comprendre vos besoins communs
+- Proposer un plan de travail
 
-Elle dure environ 1H, à ton domicile, dans ton quartier, dans un parc… en fonction de ce qu’on a besoin de travailler
+› Durée: environ 1H30  › Où: à ton domicile
+
+   #### La séance d'éducation 
+
+Une séance peut-être donné seule ou dans le cadre d'un forfait, elle comprend:  
+ - Un moment d’échange sur ce qui a évolué ou n'aurait pas été compris depuis notre dernier RDV, pour poser tes questions.  
+ - Un moment où j'évalue l'intégration des exercices proposés précédemment et, éventuellement, les revoir ou les changer.  
+ - Un moment où je te propose de nouveaux exercices et/ou un moment de décryptage de comportement  
+
+› Durée: environ 1H  › Où: à ton domicile, dans ton quartier, un parc… en fonction de ce qu’on a besoin de travailler   
 
 [En savoir plus]({{ "/education/" | relative_url }})
 
@@ -52,6 +58,7 @@ Objectifs :
 - Localisation fréquente : visage, crâne, coup
 
 [← Retour]({{ "/" | relative_url }})
+
 
 
 
