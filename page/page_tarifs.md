@@ -9,21 +9,21 @@ permalink: /tarifs/
 
 **Bilan comportemental** : 50€  
  Premier RDV obligatoire avant de commencer un suivi.  
-🐾 Durée: environ 1H30
-🐾 Où: à ton domicile   
+  🐾 Durée: environ 1H30
+  🐾 Où: à ton domicile   
 
 **Tarif spécial** : 30€  
  Bilan à 30€ pour les chiens adoptés en refuge/association de protection animale depuis moins de 6 mois.
 
 **Séance d’éducation** : 45€  
  Se déroule à ton domicile, dans ton quartier, dans un parc...  
-🐾 Durée: environ 1H
-🐾 Où: domicile, quartier, parc,...
+  🐾 Durée: environ 1H
+  🐾 Où: domicile, quartier, parc,...
 
 **Déplacements** :  
-Les 10 premiers kilomètres (A/R) depuis Saint-Étienne sont inclus.  
-Au-delà, un supplément de 0,50 €/km s’applique.  
-Exemple : Saint-Genest-Lerpt (14 km A/R) 🠖 +2 €.
+ Les 10 premiers kilomètres (A/R) depuis Saint-Étienne sont inclus.  
+ Au-delà, un supplément de 0,50 €/km s’applique.  
+ *Exemple : Saint-Genest-Lerpt (14 km A/R) 🠖 +2 €*
 
 ### Forfaits
 
@@ -38,15 +38,19 @@ Exemple : Saint-Genest-Lerpt (14 km A/R) 🠖 +2 €.
 
 ### Suivi Premium
 
-Accompagnement quotidien après les séances :  
-30 min/jour si besoin
+**Accompagnement** quotidien entre les séances d'éducation: 
+🠖 1 séance : 23€  
+🠖 5 séances : 105€  
+🠖 10 séances : 190€  
+🠖 15 séances : 270€  
+  🐾 Durée: environ 30 min  
+  🐾 Où: domicile, quartier, parc,...  
 
-**Exemple :**  
-- Bilan comportmental 50€
-- Forfait 5 séances 205€ (séparées d'1 à 2 semaines)
-- 14 suivis de 30min = 245€ (soit 1 à 2 par semaine)
-
-  *TOTAL suivi premium = 495€*
+*Exemple :*   
+ Bilan comportmental 50€  
+ + Forfait 5 séances 205€ (séparées d'1 à 2 semaines)  
+ + 10 suivis de 30min = 190€ (soit 1 à 2 par semaine)  
+*TOTAL suivi premium = 445€*  
 
 ## Tarifs — Dogsitting
 
