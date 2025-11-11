@@ -9,7 +9,7 @@ permalink: /tarifs/
 
 **Bilan comportemental** : 50€  
  Premier RDV obligatoire avant de commencer un suivi.  
-  🐾 Durée: environ 1H30
+  🐾 Durée: environ 1H30  
   🐾 Où: à ton domicile   
 
 **Tarif spécial** : 30€  
@@ -17,8 +17,8 @@ permalink: /tarifs/
 
 **Séance d’éducation** : 45€  
  Se déroule à ton domicile, dans ton quartier, dans un parc...  
-  🐾 Durée: environ 1H
-  🐾 Où: domicile, quartier, parc,...
+  🐾 Durée: environ 1H  
+  🐾 Où: domicile, quartier, parc,...  
 
 **Déplacements** :  
  Les 10 premiers kilomètres (A/R) depuis Saint-Étienne sont inclus.  
@@ -47,17 +47,17 @@ permalink: /tarifs/
   🐾 Où: domicile, quartier, parc,...  
 
 *Exemple :*   
- Bilan comportmental 50€  
- + Forfait 5 séances 205€ (séparées d'1 à 2 semaines)  
- + 10 suivis de 30min = 190€ (soit 1 à 2 par semaine)  
+  Bilan comportmental 50€  
+ ➕ Forfait 5 séances 205€ (séparées d'1 à 2 semaines)  
+ ➕ 10 suivis de 30min = 190€ (soit 1 à 2 par semaine)  
 *TOTAL suivi premium = 445€*  
 
 ## Tarifs — Dogsitting
 
 **Balades individuelles / visites à domicile**
 
-- 1h : 20€
-- 30min : 13€
+ 🠖 1h : 20€
+ 🠖 30min : 13€
 
 * 0,50€/km au-delà de 10km de Saint-Étienne
 
@@ -65,20 +65,20 @@ permalink: /tarifs/
 
 - Balade en forêt, temps calme et jeu éducatif
 - Max. 4 chiens
-- 40€ / chien
+🠖 40€ / chien
 
 **Garde journée (7h–19h)**
 
 - 3 balades de 30min dans mon quartier
-- 50€ / jour
-- +10€ / nuitée
+🠖 50€ / jour
+🠖 +10€ / nuitée
 
 ## Tarifs — PECCRAM
 
-- 1 séance (1h) : 70€
-- 1 séance (2h) : 130€
-- 2 séances (4h total) : 230€
-- Forfait 5 séances (5h) : 275€
-- Forfait 6 séances (6h) : 330€
+🐾 1 séance (1h) : 70€
+🐾 1 séance (2h) : 130€
+🐾 2 séances (4h total) : 230€
+🐾 Forfait 5 séances (5h) : 275€
+🐾 Forfait 6 séances (6h) : 330€
 
 [← Retour]({{ "/" | relative_url }})
