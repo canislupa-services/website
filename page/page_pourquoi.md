@@ -23,7 +23,7 @@ Ton chien...
 - Mord les invités 🐊
 - Fait caca dans la cuisine 💩
 - Fugue dès que tu as le dos tourné
-- A mordu tes enfants
+- A mordu tes enfants![jeu tao](../assets/images/pourquoi.jpg)
 
 Et tout ce qui gêne ta vie commune peut être une raison de venir me voir.  
 Mes méthodes d'éducation sont basées sur l'encouragement du chien. Je cherche à comprendre pourquoi il agit comme il le fait, je t'aide à déchiffrer ses signaux de communication, puis je te propose des séances pour travailler avec ton chien. Je n'éduque pas ton chien sans toi, tu dois participer aux séances.
@@ -57,4 +57,5 @@ Lorsqu'un chien n'a pas été bien socialisé (= lui montrer le monde qui l'ento
 <a class="bouton-vert" href="{{ '/qui-suis-je/' | relative_url }}">Qui suis-je</a>
 
 [← Retour]({{ "/" | relative_url }})
+
 
