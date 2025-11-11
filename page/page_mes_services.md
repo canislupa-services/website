@@ -21,7 +21,8 @@ Premier RDV, obligatoire avant de commencer des séances d’éducation:
 - Comprendre vos besoins communs
 - Proposer un plan de travail
 
-› Durée: environ 1H30   🐾   › Où: à ton domicile
+🐾 Durée: environ 1H30  
+🐾 Où: à ton domicile
 
 #### La séance d'éducation 
 
@@ -30,18 +31,21 @@ Une séance peut-être donné seule ou dans le cadre d'un forfait, elle comprend
  - Un moment où j'évalue l'intégration des exercices proposés précédemment et, éventuellement, les revoir ou les changer.  
  - Un moment où je te propose de nouveaux exercices et/ou un moment de décryptage de comportement  
 
-› Durée: environ 1H   🐾   › Où: domicile, quartier, parc… en fonction de ce qu’on a besoin de travailler     
+🐾 Durée: environ 1H  
+🐾 Où: domicile, quartier, parc… en fonction de ce qu’on a besoin de travailler     
 
 [En savoir plus]({{ "/education/" | relative_url }})
 
 
 ### Dogsitting
+
 Ponctuel ou régulier, selon tes besoins, je peux m'adapter à tes demandes:
 - Gardes à domicile  
 - Balades individuelles ou collectives  
 - Accueil type « centre aéré » pour chiens
 
-› Durée: de 30min à plusieurs heure   🐾   › Où: domicile, quartier, parc, forêt, ...
+🐾 Durée: de 30min à plusieurs heure  
+🐾 Où: domicile, quartier, parc, forêt, ...
 
 [Voir mes tarifs]({{ "/tarifs/" | relative_url }})
 
@@ -59,7 +63,8 @@ Déroulé d'une séance:
 - Activité en relation avec le thème pour intégrer une gestuelle 
 - Jeu de rôle
 
-› Durée: environ 1H   🐾   › Où: écoles, centres sociaux, périscolaire, ...
+🐾 Durée: environ 1H  
+🐾 Où: écoles, centres sociaux, périscolaire, ...
 
 **Quelques chiffres :**  
 - 50% des enfants 3–5 ans confondent un chien stressé et joyeux  
@@ -68,6 +73,7 @@ Déroulé d'une séance:
 - Localisation fréquente : visage, crâne, coup
 
 [← Retour]({{ "/" | relative_url }})
+
 
 
 
