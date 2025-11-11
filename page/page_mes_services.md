@@ -13,7 +13,7 @@ permalink: /services/
 🐾 Séances individuelles et cours collectifs  
 🐾 **Méthode positive basée sur l’encouragement**
 
-[Comment se déroule un suivi éducatif et comportemental ?]({{ "/pourquoi/" | relative_url }})     
+[Comment se déroule un suivi éducatif et comportemental ?]({{ "/page_pourquoi.md/" | relative_url }})     
 
 #### Le bilan comportemental  
 
@@ -88,6 +88,7 @@ Déroulé d'une séance:
 - Localisation fréquente : visage, crâne, coup
 
 [← Retour]({{ "/" | relative_url }})
+
 
 
 
