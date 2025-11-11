@@ -11,11 +11,9 @@ permalink: /services/
 ### Éducation canine   
 🐾 Éducation, rééducation, étude du comportement  
 🐾 Séances individuelles et cours collectifs  
-🐾 **Méthode positive basée sur l’encouragement**
+🐾 **Méthode positive basée sur l’encouragement**  
 
-[Comment se déroule un suivi éducatif et comportemental ?]({{ "/page_pourquoi.md/" | relative_url }})   
-
-<a class="bouton-vert" href="{{ '/educatrice-canin/' | relative_url }}">Comment se déroule un suivi éducatif et compoortemental ?</a>
+<a class="bouton-vert" href="{{ '/educatrice-canin/' | relative_url }}">Comment se déroule un suivi éducatif et comportemental ?</a>
 
 #### Le bilan comportemental  
 
@@ -91,6 +89,7 @@ Déroulé d'une séance:
 - Localisation fréquente : visage, crâne, coup
 
 [← Retour]({{ "/" | relative_url }})
+
 
 
 
