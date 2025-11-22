@@ -10,20 +10,20 @@ permalink: /educatrice-canin/
 Ton chien...
 
 - Aboie tout le temps
-- Avale tout ce qu’il trouve 🍔
+- Avale tout ce qu'il trouve 🍔
 - Agresse des gens
 - Saute sur tout le monde 🦘
 - A tué un chat 😿
 - A peur des enfants
 - Détruit le canapé
 - Mange tes affaires
-- Vient d’être adopté
+- Vient d'être adopté
 - Tire en laisse 🐕‍🦺🏃🏽
 - A peur de tout
 - Mord les invités 🐊
 - Fait caca dans la cuisine 💩
 - Fugue dès que tu as le dos tourné
-- A mordu tes enfants  
+- A mordu tes enfants
 
   ![jeu tao](../assets/images/donne-le-ballon.jpg)
 
@@ -54,12 +54,8 @@ Pour ça, tu auras besoins d'un peu plus de séances, pour aider ton chien à d�
 
 Lorsqu'un chien n'a pas été bien socialisé (= lui montrer le monde qui l'entoure de façon sécurisée) dans les 3/4 premiers mois de sa vie, ou qu'il a vécu des violences, des traumatismes divers, il est possible qu'il ne se sente pas en sécurité et qu'il ait des réactions de peur (comme s'enfuir, rester bloqué ou agresser) qui soient génantes voire dangereuses. Ce mal-être est important à prendre en charge, et peut donner à un suivi assez long.
 
-#### Quelque soit l'apprentissage nécessaire à mettre en place, je ne vais jamais passer par des méthodes punitives, je n'utilise pas la violence, les saccades, les coups, les cris, la pression, la peur... Et pourtant, j'ai aidé de nombreux binômes Chien-Humain à vivre sereinement, à commencer par moi-même 😉  
+#### Quelque soit l'apprentissage nécessaire à mettre en place, je ne vais jamais passer par des méthodes punitives, je n'utilise pas la violence, les saccades, les coups, les cris, la pression, la peur... Et pourtant, j'ai aidé de nombreux binômes Chien-Humain à vivre sereinement, à commencer par moi-même 😉
 
 <a class="bouton-vert" href="{{ '/qui-suis-je/' | relative_url }}">Qui suis-je</a>
 
 [← Retour]({{ "/" | relative_url }})
-
-
-
-

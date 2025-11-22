@@ -4,7 +4,6 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="theme-color" content="#86b049" />
-    {% seo %}
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
@@ -15,42 +14,39 @@
       rel="stylesheet"
       href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}"
     />
-    {% include head-custom.html %}
+    {% seo %} {% include head-custom.html %}
     <title>{{ page.title | default: site.title }}</title>
   </head>
-
-  <!-- HEADER -->
-  <header class="header">
-    <div class="container header-clickable header-content">
-      <a
-        class="header-overlay"
-        href="{{ '/' | relative_url }}"
-        aria-label="Aller à l’accueil"
-      ></a>
-      <div class="">
-        <img
-          src="{{ '/assets/images/logo_canislupa.png' | relative_url }}"
-          alt="Canislupa logo"
-          class="logo"
-        />
-      </div>
-      <div>
-        <h1>{{ site.title | default: "Bienvenue chez Canislupa" }}</h1>
-        <p class="header-description">
-          {{ site.description | default: "Éducation canine, rééducation,
-          dogsitting, prévention des morsures…" }}
-        </p>
-      </div>
-    </div>
-    <nav class="navbar">
-      <a href="{{ '/services/' | relative_url }}">Services</a>
-      <a href="{{ '/tarifs/' | relative_url }}">Tarifs</a>
-      <a href="{{ '/qui-suis-je/' | relative_url }}">Qui suis je ?</a>
-    </nav>
-  </header>
-
   <body>
-    <!-- CONTENU -->
+    <header class="header">
+      <div class="container header-clickable header-content">
+        <a
+          class="header-overlay"
+          href="{{ '/' | relative_url }}"
+          aria-label="Aller à l'accueil"
+        ></a>
+        <div class="">
+          <img
+            src="{{ '/assets/images/logo_canislupa.png' | relative_url }}"
+            alt="Canislupa logo"
+            class="logo"
+          />
+        </div>
+        <div>
+          <h1>{{ site.title | default: "Bienvenue chez Canislupa" }}</h1>
+          <p class="header-description">
+            {{ site.description | default: "Éducation canine, rééducation,
+            dogsitting, prévention des morsures…" }}
+          </p>
+        </div>
+      </div>
+      <nav class="navbar">
+        <a href="{{ '/services/' | relative_url }}">Services</a>
+        <a href="{{ '/tarifs/' | relative_url }}">Tarifs</a>
+        <a href="{{ '/qui-suis-je/' | relative_url }}">Qui suis je ?</a>
+      </nav>
+    </header>
+
     <main class="container">{{ content }}</main>
 
     <img
@@ -59,91 +55,91 @@
       alt="Chiens assis"
     />
 
-    <script
-      src="https://kit.fontawesome.com/a076d05399.js"
-      crossorigin="anonymous"
-    ></script>
-  </body>
+    <footer class="footer">
+      <div class="container" style="padding-top: 3rem">
+        <div class="footer-grid">
+          <div class="footer-col">
+            <h4>Canislupa</h4>
+            <ul class="footer-list">
+              <li>Éducation canine</li>
+              <li>📍 Saint-Étienne et alentours</li>
+            </ul>
+          </div>
 
-  <!-- FOOTER -->
-  <footer class="footer">
-    <div class="container" style="padding-top: 3rem">
-      <div class="footer-grid">
-        <div class="footer-col">
-          <h4>Canislupa</h4>
-          <ul class="footer-list">
-            <li>Éducation canine</li>
-            <li>📍 Saint-Étienne et alentours</li>
-          </ul>
-        </div>
+          <nav class="footer-col" aria-label="Coordonnées">
+            <h4>Me contacter</h4>
+            <ul class="footer-list footer-contact">
+              <li>
+                <a
+                  href="mailto:canislupa@gmx.fr"
+                  aria-label="Envoyer un email à Canislupa"
+                  >canislupa@gmx.fr</a
+                >
+              </li>
+              <li>
+                <a
+                  href="tel:+33626490040"
+                  aria-label="Appeler le 06 26 49 00 40"
+                  >06 26 49 00 40</a
+                >
+              </li>
+            </ul>
+          </nav>
 
-        <nav class="footer-col" aria-label="Coordonnées">
-          <h4>Me contacter</h4>
-          <ul class="footer-list footer-contact">
-            <li>
-              <a
-                href="mailto:canislupa@gmx.fr"
-                aria-label="Envoyer un email à Canislupa"
-                >canislupa@gmx.fr</a
-              >
-            </li>
-            <li>
-              <a href="tel:+33626490040" aria-label="Appeler le 06 26 49 00 40"
-                >06 26 49 00 40</a
-              >
-            </li>
-          </ul>
-        </nav>
+          <nav class="footer-col" aria-label="Plan du site">
+            <h4>Plan du site</h4>
+            <ul class="footer-list">
+              <!-- Remplacez les href par vos URLs réelles -->
+              <li><a href="/">Accueil</a></li>
+              <li><a href="{{ '/services/' | relative_url }}">Services</a></li>
+              <li>
+                <a href="{{ '/educatrice-canin/' | relative_url }}"
+                  >Pourquoi faire appel à une éducatrice canin ?</a
+                >
+              </li>
+              <li><a href="{{ '/tarifs/' | relative_url }}">Tarifs</a></li>
+              <li>
+                <a href="{{ '/qui-suis-je/' | relative_url }}">Qui suis je ?</a>
+              </li>
+            </ul>
+          </nav>
 
-        <nav class="footer-col" aria-label="Plan du site">
-          <h4>Plan du site</h4>
-          <ul class="footer-list">
-            <!-- Remplacez les href par vos URLs réelles -->
-            <li><a href="/">Accueil</a></li>
-            <li><a href="{{ '/services/' | relative_url }}">Services</a></li>
-            <li>
-              <a href="{{ '/educatrice-canin/' | relative_url }}"
-                >Pourquoi faire appel à une éducatrice canin ?</a
-              >
-            </li>
-            <li><a href="{{ '/tarifs/' | relative_url }}">Tarifs</a></li>
-            <li>
-              <a href="{{ '/qui-suis-je/' | relative_url }}">Qui suis je ?</a>
-            </li>
-          </ul>
-        </nav>
-
-        <div class="footer-col" aria-label="Réseaux sociaux">
-          <h4>Suivez-moi</h4>
-          <div class="social-icons">
-            <a href="https://www.facebook.com/canislupaeducationcanine">
-              <img
-                src="{{ '/assets/icons/facebook.svg' | relative_url }}"
-                alt="Facebook"
-                width="35"
-              />
-            </a>
-            <a href="https://www.instagram.com/mary_canislupa/">
-              <img
-                src="{{ '/assets/icons/instagram.svg' | relative_url }}"
-                alt="Instagram"
-                width="35"
-              />
-            </a>
+          <div class="footer-col" aria-label="Réseaux sociaux">
+            <h4>Suivez-moi</h4>
+            <div class="social-icons">
+              <a href="https://www.facebook.com/canislupaeducationcanine">
+                <img
+                  src="{{ '/assets/icons/facebook.svg' | relative_url }}"
+                  alt="Facebook"
+                  width="35"
+                />
+              </a>
+              <a href="https://www.instagram.com/mary_canislupa/">
+                <img
+                  src="{{ '/assets/icons/instagram.svg' | relative_url }}"
+                  alt="Instagram"
+                  width="35"
+                />
+              </a>
+            </div>
           </div>
         </div>
       </div>
-    </div>
-    <div class="footer-bottom" style="margin-top: 3rem">
-      <div class="footer-bottom-inner container">
-        <p>
-          © {{ site.time | date: "%Y" }} Canislupa - Tous droits réservés.
-          &nbsp;&nbsp;&nbsp;&nbsp;
-          <a href="./mentions-legales/">Mentions légales</a>
-          <span aria-hidden="true"> · </span>
-          <a href="./cgv-canislupa/">Condition generale de vente</a>
-        </p>
+      <div class="footer-bottom" style="margin-top: 3rem">
+        <div class="footer-bottom-inner container">
+          <p>
+            © {{ site.time | date: "%Y" }} Canislupa - Tous droits réservés.
+            &nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="{{ '/mentions-legales/' | relative_url }}"
+              >Mentions légales</a
+            >
+            <span aria-hidden="true"> · </span>
+            <a href="{{ '/cgv-canislupa/' | relative_url }}"
+              >Conditions générales de vente</a
+            >
+          </p>
+        </div>
       </div>
-    </div>
-  </footer>
+    </footer>
+  </body>
 </html>
