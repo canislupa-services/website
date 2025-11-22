@@ -66,29 +66,6 @@
   </body>
 
   <!-- FOOTER -->
-  <!-- <footer class="footer">
-    <div class="container">
-      <h3>Me contacter</h3>
-      <ul style="list-style: none; padding: 0; margin: 0;">
-        <li>📧 <a href="mailto:canislupa@gmx.fr">canislupa@gmx.fr</a></li>
-        <li>📞 <a href="tel:+33626490040">06 26 49 00 40</a></li>
-        <li>📍 Saint-Étienne et alentours</li>
-      </ul>
-
-      <div>
-        <div class="social-icons">
-          <a href="https://www.facebook.com/canislupaeducationcanine">
-            <img src="assets/icons/facebook.svg" alt="Facebook" width="35">
-          </a>
-          <a href="https://www.instagram.com/mary_canislupa/">
-            <img src="assets/icons/instagram.svg" alt="Instagram" width="35">
-          </a>
-        </div>
-
-        <p>© {{ site.time | date: "%Y" }} Canislupa — Tous droits réservés.</p>
-      </div>
-  </footer> -->
-
   <footer class="footer">
     <div class="container" style="padding-top: 3rem">
       <div class="footer-grid">
@@ -140,11 +117,15 @@
           <h4>Suivez-moi</h4>
           <div class="social-icons">
             <a href="https://www.facebook.com/canislupaeducationcanine">
-              <img src="assets/icons/facebook.svg" alt="Facebook" width="35" />
+              <img
+                src="{{ '/assets/icons/facebook.svg' | relative_url }}"
+                alt="Facebook"
+                width="35"
+              />
             </a>
             <a href="https://www.instagram.com/mary_canislupa/">
               <img
-                src="assets/icons/instagram.svg"
+                src="{{ '/assets/icons/instagram.svg' | relative_url }}"
                 alt="Instagram"
                 width="35"
               />
