@@ -34,6 +34,5 @@ plugins:
   - jekyll-feed
   - jekyll-redirect-from
 
-exclude:
-  - docs
+
 # permalink: /:categories/:title/
