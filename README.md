@@ -8,7 +8,7 @@
 
 Ce repo contient le code du site de **Canislupa**, éducatrice canine sur Saint-Étienne et alentours.
 
-🐾 Visiter le site -> https://canislupa-services.github.io/website/
+🐾 Visiter le site -> https://canislupa.fr/
 
 L'objectif est de présenter :
 
