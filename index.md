@@ -36,8 +36,8 @@ Ici tu trouveras une éducatrice canin & comportementaliste :
   <article class="card">
     <img src="./assets/images/jeu-de-chien.JPG" alt="Programme PECCRAM chiens qui jouent malinois labrador enfant morsure école prévention" class="card-img">
     <div class="card-content">
-      <h4>Programme PECCRAM</h4>
-      <p>Programme d'éducation à la prévention des morsures pour enfants.</p>
+      <h4>Prévention des morsures</h4>
+      <p>Programme d'éducation à la prévention des morsures pour enfants (PECCRAM).</p>
       <a href="{{ '/services/' | relative_url }}">En savoir plus →</a>
     </div>
   </article>
