@@ -12,15 +12,15 @@ Dernière mise à jour : le 20/12/2025 s’applique aux citoyens de l’Espace 
 La poursuite de la navigation sur ce site vaut acceptation sans réserve des dispositions et conditions d’utilisation qui suivent. La version actuellement en ligne de ces conditions d’utilisation est la seule opposable pendant toute la durée d’utilisation du site et jusqu’à ce qu’une nouvelle version la remplace.  
 
 ### ARTICLE 1 – INFORMATIONS LÉGALES  
-    • Éditeur : « Canislupa »  
-      Le site de canislupa.fr est édité par :  
+- Éditeur : « Canislupa »  
+Le site de canislupa.fr est édité par :  
 Marylise Granobles, éducatrice comportementaliste canin professionnelle  
 Adresse : 11 rue Duphot, 69003 Lyon (CAP Services)  
 Email : canislupa@gmx.fr  
 SIRET : 402 636 757 000 39  
-    • Conception et réalisation : JB ???  
-    • Hébergeur: GitHub, Inc. 88 Colin P Kelly Jr St, San Francisco CA, 94107 États-Unis . https://github.com  
-    • Nom de domaine : Administré par OVH, 2 rue Kellerman, 59100 Roubaix, France. https://www.ovhcloud.com   
+- Conception et réalisation : JB ???
+- Hébergeur: GitHub, Inc. 88 Colin P Kelly Jr St, San Francisco CA, 94107 États-Unis . https://github.com
+- Nom de domaine : Administré par OVH, 2 rue Kellerman, 59100 Roubaix, France. https://www.ovhcloud.com
     
 ### ARTICLE 2 – ACCÈS AU SITE  
 L’accès au site et son utilisation sont réservés à un usage strictement personnel. Vous vous engagez à ne pas utiliser ce site et les informations ou données qui y figurent à des fins commerciales, politiques, publicitaires et pour toute forme de sollicitation commerciale et notamment l’envoi de courriers électroniques non sollicités.   
@@ -77,5 +77,6 @@ Pour toute question, information sur les produits présentés sur le site, ou co
 ### CRÉDITS IMAGES DU SITE  
 La plupart des illustrations appartiennent à « Canislupa »  
 Certains icônes sont créés avec www.canva.com   
+
 
 
