@@ -1,20 +1,20 @@
 # Cadrage SEO
 
 ## Liste de mots clés  
-educateur canin
-éducateur canin
-educateur chien
-éducation canine 
-education canine
-education positive
-club canin
-club chien
-comportementaliste canin
-chiot, chien, chienne
-chien qui mord, chien mordeur, chien qui aboie, morsure de chien
-balade chien, promenade chien
+educateur canin  
+éducateur canin  
+educateur chien  
+éducation canine   
+education canine  
+education positive  
+club canin  
+club chien  
+comportementaliste canin  
+chiot, chien, chienne  
+chien qui mord, chien mordeur, chien qui aboie, morsure de chien  
+balade chien, promenade chien  
 
-malinois, berger australien, corgi, border collie, berger allemand, husky, teckel, bichon, spitz, labrador
+malinois, berger australien, corgi, border collie, berger allemand, husky, teckel, bichon, spitz, labrador  
 
 ## Liste de liens  
 https://www.mfec.fr/  
