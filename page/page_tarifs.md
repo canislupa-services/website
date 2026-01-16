@@ -39,16 +39,15 @@ permalink: /tarifs/
 ### Suivi Premium
 
 **Accompagnement** quotidien entre les séances d'éducation:
-🠖 1 séance : 23€  
-🠖 5 séances : 105€  
-🠖 10 séances : 190€  
-🠖 15 séances : 270€  
+🠖 1 séance : 25€  
+🠖 5 séances : 110€  
+🠖 10 séances : 200€  
  🐾 Durée: environ 30 min  
  🐾 Où: domicile, quartier, parc,...
 
 _Exemple :_  
- Bilan comportmental 50€ ➕ Forfait 5 séances 205€ ➕ 10 suivis de 30min 190€  
-_TOTAL suivi premium = 445€_
+ Bilan comportmental 50€ ➕ Forfait 5 séances 205€ ➕ 10 suivis de 30min 200€  
+_TOTAL suivi premium = 455€_
 
 ## Tarifs — Dogsitting
 
@@ -75,8 +74,8 @@ _TOTAL suivi premium = 445€_
 
 🐾 1 séance (1h) : 70€  
 🐾 1 séance (2h) : 130€  
-🐾 2 séances (4h total) : 230€  
-🐾 Forfait 5 séances (5h) : 275€  
+🐾 2 séances (4h total) : 240€  
+🐾 Forfait 5 séances (5h) : 290€  
 🐾 Forfait 6 séances (6h) : 330€
 
 [← Retour]({{ "/" | relative_url }})
