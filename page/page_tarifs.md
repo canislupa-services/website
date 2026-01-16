@@ -54,7 +54,7 @@ _TOTAL suivi premium = 455€_
 **Balades individuelles / visites à domicile**
 
 🠖 1h : 20€
-🠖 30min : 13€
+🠖 30min : 15€
 
 - 0,50€/km au-delà de 10km de Saint-Étienne
 
