@@ -21,7 +21,7 @@ aboiement de chien, anti aboiement chien, collier anti aboiement chien, collier 
 chien qui tire, chien qui tire en laisse, harnais chien qui tire  
 chien qui garde, chien de garde  
 balade chien, balade avec chien, promenade chien, faire garder son chien, comment faire garder son chien, petsitter, pet sitter, dogsitter, dog sitter, garde chien   
-race de chien, malinois, berger australien, corgi, border collie, berger allemand, husky, teckel, bichon, spitz, labrador, dog  
+race de chien, malinois, berger australien, corgi, border collie, , jack russell, berger allemand, husky, teckel, bichon, spitz, labrador, golden retriever, cavalier king charles, bouledogue français, chihuhua, american staff, american staffordshire terrier, bull terrier, beagle, shih tzu, caniche, bulldog, yorkshire terrier, dobermann, dogue allemand,  kangal, cane corso, boxer, rottweiler,  dog  
 
 ## Liste de liens  
 https://www.mfec.fr/  
