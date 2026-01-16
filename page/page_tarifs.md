@@ -32,7 +32,7 @@ permalink: /tarifs/
 - [Pour la rééducation](./page_pourquoi.md#rééducation--troubles-du-comportement)  
   🐾 5 séances 🠖 205€
 - [Pour des problèmes comportementaux](./page_pourquoi.md#chien-peureuxagressif--troubles-du-développement)  
-  🐾 8 séances 🠖 310€
+  🐾 8 séances 🠖 315€
 
 🐾 10 séances et + : 35€/séance
 
