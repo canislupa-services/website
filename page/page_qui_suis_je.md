@@ -20,9 +20,14 @@ MARY
 
 ## Mes formations
 
+**2026**  
+
+- Muzoplus: Webinaire "Le Chien Sourd"
+- Jérémy Serindat: Stage RCH - Réactivité Chien Humain (chiens peureux/agressifs)
+
 **2025**
 
-- Déclic et des chiens : Relax Max, chiens réactifs
+- Déclic et des chiens : Relax Max, chiens réactifs (peurs/agressivité)
 - FIMAC CANIN : PECCRAM (prévention morsure)
 
 **2024**
