@@ -91,6 +91,9 @@ Déroulé d'une séance:
 - 1/3 des morsures concernent des enfants de -10 ans
 - Localisation fréquente : visage, crâne, coup
 
+Vous trouvez aussi mes infos sur:  https://www.proxianimaux.fr 
+
 [← Retour]({{ "/" | relative_url }})
+
 
 
