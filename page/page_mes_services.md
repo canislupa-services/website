@@ -26,7 +26,7 @@ Premier RDV, obligatoire avant de commencer des séances d'éducation:
 🐾 Durée: environ 1H30  
 🐾 Où: à ton domicile  
 
-![dogsitting](../assets/images/mes-services-educ.jpg)
+![educateur canin](../assets/images/mes-services-educ.jpg)
 
 
 #### La séance d'éducation
@@ -92,4 +92,5 @@ Déroulé d'une séance:
 - Localisation fréquente : visage, crâne, coup
 
 [← Retour]({{ "/" | relative_url }})
+
 
