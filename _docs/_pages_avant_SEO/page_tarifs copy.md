@@ -27,11 +27,11 @@ permalink: /tarifs/
 
 ### Forfaits
 
-- [Pour les apprentissages de base](./page_pourquoi.md#base-éducative)  
+- [Pour les apprentissages de base](./pourquoi-faire-appel-a-un-educateur-canin.md#base-éducative)  
   🐾 3 séances 🠖 130€
-- [Pour la rééducation](./page_pourquoi.md#rééducation--troubles-du-comportement)  
+- [Pour la rééducation](./pourquoi-faire-appel-a-un-educateur-canin.md#rééducation--troubles-du-comportement)  
   🐾 5 séances 🠖 205€
-- [Pour des problèmes comportementaux](./page_pourquoi.md#chien-peureuxagressif--troubles-du-développement)  
+- [Pour des problèmes comportementaux](./pourquoi-faire-appel-a-un-educateur-canin.md#chien-peureuxagressif--troubles-du-développement)  
   🐾 8 séances 🠖 315€
 
 🐾 10 séances et + : 35€/séance

@@ -2,6 +2,7 @@
 @import "rouge-github";
 @import "variables";
 
+
 @mixin large {
   @media screen and (min-width: #{$large-breakpoint}) {
     @content;
@@ -48,6 +49,208 @@ body {
     outline: thick solid invert($body-link-color);
   }
 }
+
+
+
+
+
+
+/* Couleurs */
+:root {
+  --cta: #c1e638;   /* couleur CTA */
+}
+
+/* HERO : image + overlay sombre */
+.header--hero {
+  position: relative;
+  overflow: hidden;
+  min-height: clamp(320px, 35vw, 520px);
+  background: none; /* important */
+}
+
+/* Image en fond (noir et blanc) */
+.header--hero::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-image: var(--hero-image);
+  background-size: cover;
+  background-position: center;
+  filter: grayscale(100%);         /* ✅ seulement l’image */
+  transform: scale(1.02);          /* évite les bords */
+  z-index: 0;
+}
+
+/* Overlay (ton dégradé) */
+.header--hero::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    180deg,
+    rgba(0,0,0,.50) 10%,
+    rgba(0,0,0,.75) 85%
+  );
+  z-index: 1;
+}
+
+/* Contenu au-dessus (texte/logo/boutons) */
+.header--hero > * {
+  position: relative;
+  z-index: 2;
+}
+
+/* Top bar : grid = gauche / centre / droite */
+.header-top {
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  align-items: center;
+  gap: 1rem;
+  padding: 1rem 0;
+}
+
+/* Brand (logo + nom) à gauche */
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 0.85rem;
+  text-decoration: none;
+}
+
+.logo {
+  width: 50px;
+  display: block;
+}
+
+.brand-name {
+  font-family: "Caveat Brush", cursive;
+  font-weight: 400;
+  font-size: 4rem;
+  color: var(--cta);
+  // letter-spacing: 0.02em;
+}
+
+/* Navbar centrée en haut */
+.navbar {
+  justify-self: center;
+  display: flex;
+  gap: 1.5rem;
+  align-items: center;
+  margin: 0;
+}
+
+.navbar a {
+  font-weight: 600;
+}
+
+/* Bouton brand (Contact) */
+.btn-brand {
+  background: var(--cta);
+  border: 1px solid var(--cta);
+  color: #fff !important;
+  text-decoration: none;
+
+  &:hover {
+    filter: brightness(0.92);
+    text-decoration: none;
+  }
+}
+
+/* ✅ Bouton CTA couleur demandée */
+.btn-cta {
+  background: var(--cta);
+  border: 1px solid var(--cta);
+  color: #1b1b1b !important; /* lisible sur le vert clair */
+  text-decoration: none;
+  font-weight: 700;
+
+  &:hover {
+    filter: brightness(0.95);
+    text-decoration: none;
+  }
+}
+
+/* Texte au centre de la bannière en blanc + plus gros */
+.hero-center {
+  padding: 1rem 0 1rem;
+  max-width: 60rem;
+  text-align: center;
+}
+
+.hero-title,
+.hero-text {
+  color: #fff;
+}
+
+.hero-title {
+  font-size: 3.5rem;
+  font-family: "Caveat Brush", cursive;
+}
+
+.hero-title {
+  // font-size: clamp(2.3rem, 3.6vw, 3.2rem);
+  font-size: 3rem;
+  margin: 1.2rem 0 0.8rem;
+}
+
+.hero-text {
+  font-size: 1.4rem;
+  line-height: 1.55;
+  margin: 0 auto 1.8rem;
+  max-width: 46rem;
+  opacity: 0.95;
+}
+
+/* ✅ 2 boutons côte à côte : CTA puis Contact */
+.hero-actions {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.hero-actions .btn {
+  display: inline-block;
+  padding: 0.85rem 1.25rem;
+  border-radius: 0.7rem;
+}
+
+/* Navbar en blanc sur la bannière */
+.header--hero .navbar a {
+  color: #fff;
+  margin-top: 1.5rem;
+  font-size: 1.4rem;
+}
+
+/* Responsive */
+@include small {
+  .header-top {
+    grid-template-columns: 1fr;
+    justify-items: center;
+    gap: 0.75rem;
+  }
+
+  .navbar {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .hero-actions .btn {
+    width: 100%;
+    text-align: center;
+  }
+}
+
+
+
+
+
+
+
+
+
+
 
 a {
   color: $body-link-color;
@@ -197,6 +400,7 @@ a {
   img {
     max-width: 100%;
   }
+
 
   h1,
   h2,
@@ -372,4 +576,22 @@ a {
 
 .site-footer-credits {
   color: $blockquote-text-color;
+}
+
+
+.skip-link {
+  position: absolute;
+  left: -999px;
+  top: 0;
+}
+.skip-link:focus {
+  left: 1rem;
+  top: 1rem;
+  z-index: 9999;
+  background: white;
+  padding: .5rem .75rem;
+  border-radius: .5rem;
+}
+.site-title {
+  font-weight: 700;
 }

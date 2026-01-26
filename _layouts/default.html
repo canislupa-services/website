@@ -1,57 +1,118 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: 'fr' }}">
+<html lang="{{ page.lang }}">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="theme-color" content="#86b049" />
-    {% seo %}
+
+    {%- seo -%}
+    {%- include head-custom.html -%}
+
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
     <link
       href="https://fonts.googleapis.com/css2?family=Caveat+Brush&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap"
       rel="stylesheet"
     />
+
     <link
     rel="stylesheet"
     href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}"
     />
-  </head>
-  <body>
-    <header class="header">
-      <div class="container header-clickable header-content">
-        <a
-          class="header-overlay"
-          href="{{ '/' | relative_url }}"
-          aria-label="Aller à l'accueil"
-        ></a>
-        <div class="">
-          <img
-            src="{{ '/assets/images/logo_canislupa.png' | relative_url }}"
-            alt="Canislupa logo"
-            class="logo"
-          />
-        </div>
-        <div>
-          <h1>{{ site.title | default: "Bienvenue chez Canislupa" }}</h1>
-          <p class="header-description">
-            {{ site.description | default: "Éducation canine, rééducation,
-            dogsitting, prévention des morsures…" }}
-          </p>
-        </div>
-      </div>
-      <nav class="navbar">
-        <a href="{{ '/services/' | relative_url }}">Services</a>
-        <a href="{{ '/tarifs/' | relative_url }}">Tarifs</a>
-        <a href="{{ '/qui-suis-je/' | relative_url }}">Qui suis je ?</a>
-      </nav>
-    </header>
 
-    <main class="container">{{ content }}</main>
+    <!-- Données structurées Local/Service -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "ProfessionalService",
+        "name": "Canislupa",
+        "url": "{{ site.url | default: 'https://canislupa.fr' }}{{ '/' | relative_url }}",
+        "telephone": "+33626490040",
+        "email": "canislupa@gmx.fr",
+        "areaServed": [
+          { "@type": "City", "name": "Saint-Étienne" }
+        ],
+        "knowsAbout": [
+          "éducation canine",
+          "rééducation du chien",
+          "comportement du chien",
+          "dogsitting",
+          "prévention morsure (PECCRAM)"
+        ],
+        "sameAs": [
+          "https://www.facebook.com/canislupaeducationcanine",
+          "https://www.instagram.com/mary_canislupa/"
+        ]
+      }
+    </script>
+  </head>
+
+  <body>
+    <a class="skip-link" href="#contenu">Aller au contenu</a>
+
+
+{% assign banner = page.banner | default: site.banner %}
+
+<header
+  class="header{% if banner %} header--hero{% endif %}"
+  {% if banner %}style="--hero-image: url('{{ banner | relative_url }}')"{% endif %}
+>
+  <div class="container header-top">
+    <a class="brand" href="{{ '/' | relative_url }}" aria-label="Aller à l'accueil">
+      <img
+        src="{{ '/assets/images/logo_canislupa.png' | relative_url }}"
+        alt="Logo Canislupa"
+        class="logo"
+        loading="eager"
+        decoding="async"
+      />
+      <span class="brand-name">Canislupa</span>
+    </a>
+
+    <nav class="navbar" aria-label="Navigation principale">
+      <a href="{{ '/services/' | relative_url }}" {% if page.url == '/services/' %}aria-current="page"{% endif %}>Services</a>
+      <a href="{{ '/tarifs/' | relative_url }}" {% if page.url == '/tarifs/' %}aria-current="page"{% endif %}>Tarifs</a>
+      <a href="{{ '/qui-suis-je/' | relative_url }}" {% if page.url == '/qui-suis-je/' %}aria-current="page"{% endif %}>Qui suis je ?</a>
+    </nav>
+
+    <!-- ✅ vide pour garder la grille (gauche/centre/droite) -->
+    <div></div>
+  </div>
+
+  <!-- Hero content -->
+  {% if banner %}
+  <div class="container hero-center" role="region" aria-label="Bannière d'accueil">
+    <p class="hero-title">Éducation canine positive</p>
+    <p class="hero-text">
+      Balades, éducation et rééducation : un accompagnement adapté à votre chien et à votre quotidien.
+    </p>
+
+    <div class="hero-actions">
+      <a class="btn btn-brand" href="tel:+33626490040" aria-label="Appeler le 06 26 49 00 40">
+       	&#128222; 06 26 49 00 40
+      </a>
+    </div>
+  </div>
+  {% endif %}
+</header>
+
+
+
+
+
+
+
+    <main id="contenu" class="container">
+      {{ content }}
+    </main>
 
     <img
       class="image-footer"
       src="{{ '/assets/images/footer-ombres-chiens.png' | relative_url }}"
-      alt="Chiens assis"
+      alt="Silhouettes de chiens assis"
+      loading="lazy"
+      decoding="async"
     />
 
     <footer class="footer">
@@ -69,18 +130,14 @@
             <h4>Me contacter</h4>
             <ul class="footer-list footer-contact">
               <li>
-                <a
-                  href="mailto:canislupa@gmx.fr"
-                  aria-label="Envoyer un email à Canislupa"
-                  >canislupa@gmx.fr</a
-                >
+                <a href="mailto:canislupa@gmx.fr" aria-label="Envoyer un email à Canislupa">
+                  canislupa@gmx.fr
+                </a>
               </li>
               <li>
-                <a
-                  href="tel:+33626490040"
-                  aria-label="Appeler le 06 26 49 00 40"
-                  >06 26 49 00 40</a
-                >
+                <a href="tel:+33626490040" aria-label="Appeler le 06 26 49 00 40">
+                  06 26 49 00 40
+                </a>
               </li>
             </ul>
           </nav>
@@ -88,54 +145,54 @@
           <nav class="footer-col" aria-label="Plan du site">
             <h4>Plan du site</h4>
             <ul class="footer-list">
-              <!-- Remplacez les href par vos URLs réelles -->
-              <li><a href="/">Accueil</a></li>
+              <li><a href="{{ '/' | relative_url }}">Accueil</a></li>
               <li><a href="{{ '/services/' | relative_url }}">Services</a></li>
               <li>
-                <a href="{{ '/educatrice-canin/' | relative_url }}"
-                  >Pourquoi faire appel à une éducatrice canin ?</a
-                >
+                <a href="{{ '/pourquoi-faire-appel/' | relative_url }}">
+                  Pourquoi faire appel à une éducatrice canine ?
+                </a>
               </li>
               <li><a href="{{ '/tarifs/' | relative_url }}">Tarifs</a></li>
-              <li>
-                <a href="{{ '/qui-suis-je/' | relative_url }}">Qui suis je ?</a>
-              </li>
+              <li><a href="{{ '/qui-suis-je/' | relative_url }}">Qui suis je ?</a></li>
             </ul>
           </nav>
 
           <div class="footer-col" aria-label="Réseaux sociaux">
             <h4>Suivez-moi</h4>
             <div class="social-icons">
-              <a href="https://www.facebook.com/canislupaeducationcanine">
+              <a href="https://www.facebook.com/canislupaeducationcanine" aria-label="Facebook Canislupa">
                 <img
                   src="{{ '/assets/icons/facebook.svg' | relative_url }}"
-                  alt="Facebook"
+                  alt=""
                   width="35"
+                  height="35"
+                  loading="lazy"
+                  decoding="async"
                 />
               </a>
-              <a href="https://www.instagram.com/mary_canislupa/">
+              <a href="https://www.instagram.com/mary_canislupa/" aria-label="Instagram Canislupa">
                 <img
                   src="{{ '/assets/icons/instagram.svg' | relative_url }}"
-                  alt="Instagram"
+                  alt=""
                   width="35"
+                  height="35"
+                  loading="lazy"
+                  decoding="async"
                 />
               </a>
             </div>
           </div>
         </div>
       </div>
+
       <div class="footer-bottom" style="margin-top: 3rem">
         <div class="footer-bottom-inner container">
           <p>
             © {{ site.time | date: "%Y" }} Canislupa - Tous droits réservés.
             &nbsp;&nbsp;&nbsp;&nbsp;
-            <a href="{{ '/mentions-legales/' | relative_url }}"
-              >Mentions légales</a
-            >
+            <a href="{{ '/mentions-legales/' | relative_url }}">Mentions légales</a>
             <span aria-hidden="true"> · </span>
-            <a href="{{ '/cgv-canislupa/' | relative_url }}"
-              >Conditions générales de vente</a
-            >
+            <a href="{{ '/cgv-canislupa/' | relative_url }}">Conditions générales de vente</a>
           </p>
         </div>
       </div>

@@ -20,7 +20,7 @@ MARY
 
 ## Mes formations
 
-**2026**  
+**2026**
 
 - Muzoplus: Webinaire "Le Chien Sourd"
 - Jérémy Serindat: Stage RCH - Réactivité Chien Humain (chiens peureux/agressifs)

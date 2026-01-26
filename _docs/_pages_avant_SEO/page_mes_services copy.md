@@ -5,17 +5,17 @@ description: services education canine
 permalink: /services/
 ---
 
-## Mes services
+# Mes services
 
-### Éducation canine
+## Éducation canine
 
-🐾 Éducation, rééducation, étude du comportement  
-🐾 Séances individuelles et cours collectifs  
-🐾 **Méthode positive basée sur l'encouragement**
+🐾 Éducation, rééducation, étude du comportement
+🐾 Séances individuelles et cours collectifs
+🐾 Méthode positive basée sur l'encouragement
 
 <a class="bouton-vert" href="{{ '/educatrice-canin/' | relative_url }}">Comment se déroule un suivi éducatif et comportemental ?</a>
 
-#### Le bilan comportemental
+### Le bilan comportemental
 
 Premier RDV, obligatoire avant de commencer des séances d'éducation:
 
@@ -24,12 +24,11 @@ Premier RDV, obligatoire avant de commencer des séances d'éducation:
 - Proposer un plan de travail
 
 🐾 Durée: environ 1H30  
-🐾 Où: à ton domicile  
+🐾 Où: à ton domicile
 
 ![educateur canin](../assets/images/mes-services-educ.jpg)
 
-
-#### La séance d'éducation
+### La séance d'éducation
 
 Une séance peut-être donné seule ou dans le cadre d'un forfait, elle comprend:
 
@@ -40,7 +39,7 @@ Une séance peut-être donné seule ou dans le cadre d'un forfait, elle comprend
 🐾 Durée: environ 1H  
 🐾 Où: domicile, quartier, parc,... en fonction de ce qu'on a besoin de travailler
 
-#### Le suivi premium
+### Le suivi premium
 
 Pas à l'aise de travailler l'éducation seul-e entre chaque séance d'éducation?  
 Tu peux opter pour un suivi premium:
@@ -52,7 +51,7 @@ Tu peux opter pour un suivi premium:
 🐾 Durée: environ 30 min  
 🐾 Où: domicile, quartier, parc, ...
 
-### Dogsitting
+## Dogsitting et promenades de chiens
 
 Ponctuel ou régulier, selon tes besoins, je peux m'adapter à tes demandes:
 
@@ -63,11 +62,9 @@ Ponctuel ou régulier, selon tes besoins, je peux m'adapter à tes demandes:
 🐾 Durée: de 30min à plusieurs heures  
 🐾 Où: domicile, quartier, parc, forêt, ...
 
-[Voir mes tarifs]({{ "/tarifs/" | relative_url }})
+<img src="/assets/images/chiot-en-laisse.jpg" alt="Chiot en promenade lors d'une séance de dogsitting à Saint-Étienne" />
 
-![dogsitting](../assets/images/chiot-en-laisse.jpg)
-
-### Prévention morsure (PECCRAM)
+## Prévention des morsures (PECCRAM)
 
 **PECCRAM**  
 Programme d'Éducation à la Connaissance du Chien et au Risque d'Accident par Morsure, créé par Chantal Hazard (FIMAC).
@@ -91,9 +88,6 @@ Déroulé d'une séance:
 - 1/3 des morsures concernent des enfants de -10 ans
 - Localisation fréquente : visage, crâne, coup
 
-Vous trouvez aussi mes infos sur:  https://www.proxianimaux.fr 
+Vous trouvez aussi mes infos sur: https://www.proxianimaux.fr
 
 [← Retour]({{ "/" | relative_url }})
-
-
-

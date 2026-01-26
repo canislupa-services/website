@@ -5,11 +5,12 @@
 
 
 :root {
-  --green: #c3e839;
+  --green: #c1e638;
   --light-bg: #f9f9fb;
   --dark-green: #618a3d;
   --footer-bottom-bg: #c3cfcf;
   --footer-bottom-text: #333333;
+  --text-grey: #555555;
 }
 
 body a {
@@ -41,26 +42,29 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 4.5rem;
-  color: #333
+  font-size: 3.25rem;
+  color: var(--dark-green);
+  line-height: 3.8rem;
+  margin-top: 4rem;
 }
 
 h2 {
   font-size: 2.8rem;
+  color:var(--dark-green);
 } 
 
 h3 {
   font-size: 2rem;
   margin-top: 2rem;
+  color: #555;
 }
 
 h4 {
   font-size: 1.8rem;
-  color: #555
+  color: #555;
 }
 /* HEADER */
 .header {
-  background: #c3e839;
   color: var(--text);
   padding-bottom: 1rem;
 }
@@ -103,10 +107,11 @@ h4 {
 }
 
 .logo {
-  width: 200px;
-  height: auto;
+  width: 125px;
+  height: 125px;
   animation: puppyZoom 6s ease-in-out infinite;
   transform-origin: center;
+  border-radius: 70%;
 }
 
 .navbar {
@@ -128,7 +133,7 @@ h4 {
 
 .navbar a:hover {
   // background: rgba(255, 255, 255, 0.2);
-  background: var(--dark-green);
+  background: var(--green);
   color: white
 }
 
@@ -139,13 +144,78 @@ h4 {
   margin: auto;
 }
 
-main h2, main h3 {
-  color: var(--dark-green);
+// main h2, main h3 {
+//   color: var(--dark-green);
+// }
+
+
+/*PUCE*/
+
+/* Blockquote = juste des lignes avec chevrons (pas de boîte) */
+main blockquote {
+  margin: 0.8rem 2rem;
+  padding: 0.2rem;
+  border: 0;
+  background: transparent;
 }
+
+main blockquote p {
+  margin: 0.35rem 0;
+  padding-left: 1.5rem;
+  position: relative;
+}
+
+/* Chevron */
+main blockquote p::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0.55rem;
+  width: 8px;
+  height: 8px;
+  border-right: 2px solid var(--text-grey);
+  border-bottom: 2px solid var(--text-grey);
+  transform: rotate(-45deg);
+}
+
+
+
+
+main ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+main ul li {
+  position: relative;
+  padding-left: 1.6rem;
+  margin: 0.55rem 0;
+}
+
+main ul li::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0.62rem;
+  width: 10px;
+  height: 6px;
+  border-left: 2px solid var(--dark-green);
+  border-bottom: 2px solid var(--dark-green);
+  transform: rotate(-45deg);
+}
+
+
+
 
 /* CALL TO ACTION */
 
+.cta-center {
+  text-align: center;
+}
+
+
 .bouton-vert {
+  display: inline-block;
   background-color: #618a3d;
   color: white;
   border: none;
@@ -157,9 +227,9 @@ main h2, main h3 {
   transition: background-color 0.3s ease, transform 0.2s ease, box-shadow 0.2s ease;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
   text-align: center;
-  margin-top: 2rem;
-  margin-bottom: 2rem;
+  margin: 2rem 0 1rem 0;
 }
+
 
 .bouton-vert:hover {
   color: white;
@@ -292,3 +362,13 @@ footer a:hover {
 //   font-variation-settings:
 //     "wdth" 100;
 // }
+
+
+.highlight { font-weight: 700; }
+
+hr {
+  border: 0;
+  height: 1px;
+  margin: 2.5rem 0;
+  background: linear-gradient(to right, transparent, rgba(0, 0, 0, 0.16), transparent);
+}
