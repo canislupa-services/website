@@ -49,7 +49,7 @@ Je me forme en continu afin d'actualiser mes connaissances et d'adapter ma prati
 
 ### **2023 / 2024**
 
-- Nature de Chien : [Éducation canine et étude du comportement](https://www.naturedechien.fr/" alt="Centre de formation pour éducateur canin)
+- Nature de Chien : [Éducation canine et étude du comportement](https://www.naturedechien.fr/")
 
 ### **2023**
 
