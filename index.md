@@ -14,7 +14,7 @@ Chaque race de chien a ses besoins particuliers, stimulation mentale, physique, 
 **Chien peureux, réactif, agressif, mordeur? Tu es au bon endroit, je me suis spécialisée dans l'accompagnement de ces problématiques difficiles à vivre pour toi et ton chien**  
 
 
-**Secteur :** Saint-Étienne, Firminy, Roche-la-Molière, Le Chambon-Feugerolles et alentours.
+**Secteur :** Saint-Étienne et alentours, Firminy, Roche-la-Molière, Villars, La Talaudière, Saint-Jean-Bonnefond, Planfoy...
 
 <div class="cta-center">
   <a class="bouton-vert" href="{{ '/services/' | relative_url }}">Découvrir mon accompagnement</a>
