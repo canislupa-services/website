@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Condition generale de ventes
-description: CGV
+title: Conditions générales de vente | Canislupa
+description: "Conditions générales de vente Canislupa : prestations, tarifs, modalités de réservation, annulation et conditions d’intervention."
 permalink: /cgv-canislupa/
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: educateur canin et comportement du chien à Saint-Étienne | Canislupa
-description: "Éducatrice canine à Saint-Étienne : problèmes de comportement, chien qui aboie, tire en laisse, mord, peur, agressivité. Méthode positive et accompagnement personnalisé."
+title: Pourquoi et quand faire appel à un educateur canin à Saint-Étienne ? | CANISLUPA
+description: "Chien qui tire en laisse, aboie, réagit aux congénères ou manque de rappel ? Canislupa vous accompagne à Saint-Étienne avec une méthode positive et un plan adapté."
 permalink: /pourquoi-faire-appel/
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Canislupa, educateur canin et comportementaliste à Saint-Étienne
-description: Éducation canine positive, rééducation, dogsitting et prévention morsure (PECCRAM) à Saint-Étienne et alentours.
+title: Éducatrice canin à Saint-Étienne | Canislupa
+description: Éducation canine positive, bilan comportemental, rééducation, dogsitting et prévention des morsures (PECCRAM) à Saint-Étienne et alentours.
 ---
 
 # Éducatrice canin et comportementaliste

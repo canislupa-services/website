@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Éducatrice canine et comportementaliste à Saint-Étienne | Canislupa
-description: Parcours, formations et expérience de Mary, éducatrice canine et comportementaliste à Saint-Étienne. Approche positive, respectueuse et engagée.
+title: Mary – éducatrice canin à Saint-Étienne | Canislupa
+description: Découvrez le parcours, les formations et l'approche de Mary, éducatrice canine à Saint-Étienne. Méthode positive, respectueuse et personnalisée.
 permalink: /qui-suis-je/
 ---
 

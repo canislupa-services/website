@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Éducation canine, dogsitting et prévention à Saint-Étienne | Canislupa
-description: Services d'éducation canine positive, comportement du chien, dogsitting et prévention des morsures (PECCRAM) à Saint-Étienne et alentours.
+title: Éducation d'éducation canine positive à Saint-Étienne | CANISLUPA
+description: Éducation canine positive, bilan comportemental, rééducation, dogsitting et prévention des morsures (PECCRAM) à Saint-Étienne et alentours. Séances adaptées à votre chien.
 permalink: /services/
 ---
 
