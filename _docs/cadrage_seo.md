@@ -34,7 +34,7 @@ https://www.fimaccanin.fr/
 https://www.zoopro.fr/  
 https://muzoplus.fr/
 
-## <strong> vs .highlight
+## strong vs .highlight
 
 Nous utilisons la balise <strong> (qui correspond au **mot** en markdown) uniquement pour les éléments structurants du sens : le métier, la zone géographique, la méthode principale, les étapes clés d'accompagnement et les dispositifs ou certifications reconnus. Le <strong> ne sert pas à mettre en gras pour faire joli, mais à aider Google à comprendre qui nous sommes, ce que nous faisons et comment nous travaillons. Il est volontairement rare afin de conserver une hiérarchie claire et éviter toute sur-optimisation.
 
