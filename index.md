@@ -6,12 +6,12 @@ description: Éducation canine positive, rééducation, dogsitting et préventio
 
 # Éducatrice canin et comportementaliste
 
-Tu voudrais éduquer ton Bouledogue Français sans cris et sans contrainte? Ne plus te sentir dépassé-e par ton Malinois? Sortir sans stress avec ton border Collie ou ton Berger Allemand?  Pouvoir faire confiance à ton Berger Australien? Apprendre les bases éducatives à ton Cocker chiot? Comprendre pourquoi ton Spitz aboie sans cesse? 
+Tu voudrais éduquer ton Bouledogue Français sans cris et sans contrainte ? Ne plus te sentir dépassé-e par ton Malinois ? Sortir sans stress avec ton border Collie ou ton Berger Allemand ?  Pouvoir faire confiance à ton Berger Australien ? Apprendre les bases éducatives à ton Cocker chiot ? Comprendre pourquoi ton Spitz aboie sans cesse ? 
 
 J'accompagne tous types de chiens, avec une approche **d'éducation canine positive**, basée sur <span class="highlight">le respect du chien</span>. Je t'aide à construire une relation plus sereine grâce à l'éducation, la rééducation et la compréhension du comportement.  
 Chaque race de chien a ses besoins particuliers, stimulation mentale, physique, besoins d'attention, mais chaque chien est unique avec ses traits de caractères, son histoire, son développement. Je m'adapte à lui, à votre binôme et à tout le foyer familial.  
 
-**Chien peureux, réactif, agressif, mordeur? Tu es au bon endroit, je me suis spécialisée dans l'accompagnement de ces problématiques difficiles à vivre pour toi et ton chien**  
+Chien peureux, réactif, agressif, mordeur ? Tu es au bon endroit, **je suis spécialisée dans l'accompagnement** de ces problématiques difficiles à vivre pour toi et ton chien. 
 
 
 **Secteur :** Saint-Étienne et alentours, Firminy, Roche-la-Molière, Villars, La Talaudière, Saint-Jean-Bonnefond, Planfoy...
