@@ -29,12 +29,8 @@
         <a href="{{ '/qui-suis-je/' | relative_url }}" {% if page.url=='/qui-suis-je/' %}aria-current="page" {% endif
           %}>Qui suis je ?</a>
       </nav>
-
-      <!-- ✅ vide pour garder la grille (gauche/centre/droite) -->
       <div></div>
     </div>
-
-    <!-- Hero content -->
     {% if banner %}
     <div class="container hero-center" role="region" aria-label="Bannière d'accueil">
       <p class="hero-title">Éducation canine positive</p>
@@ -110,12 +106,12 @@
           <h4>Suivez-moi</h4>
           <div class="social-icons">
             <a href="https://www.facebook.com/canislupaeducationcanine" aria-label="Facebook Canislupa">
-              <img src="{{ '/assets/icons/facebook.svg' | relative_url }}" alt="" width="35" height="35" loading="lazy"
-                decoding="async" />
+              <img src="{{ '/assets/icons/facebook.svg' | relative_url }}" alt="" aria-hidden="true" width="35"
+                height="35" loading="lazy" decoding="async" />
             </a>
             <a href="https://www.instagram.com/mary_canislupa/" aria-label="Instagram Canislupa">
-              <img src="{{ '/assets/icons/instagram.svg' | relative_url }}" alt="" width="35" height="35" loading="lazy"
-                decoding="async" />
+              <img src="{{ '/assets/icons/instagram.svg' | relative_url }}" alt="" aria-hidden="true" width="35"
+                height="35" loading="lazy" decoding="async" />
             </a>
           </div>
         </div>
