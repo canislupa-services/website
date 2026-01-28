@@ -5,13 +5,13 @@ description: "Éducatrice canine à Saint-Étienne : problèmes de comportement,
 permalink: /pourquoi-faire-appel/
 ---
 
-# **Éducation canine et comportement du chien à Saint-Étienne**
+# Éducation canine et comportement du chien à Saint-Étienne
 
 Faire appel à une **éducatrice canine** permet de mieux comprendre son chien, de prévenir ou corriger certains comportements et d'améliorer la vie quotidienne du duo humain–chien.
 
-J'interviens à **Saint-Étienne et alentours**, à domicile et en extérieur, avec une approche basée sur <span class="highlight">le respect et l'encouragement</span>.
+J'interviens à <span class="highlight">Saint-Étienne et alentours</span>, **à domicile** et en extérieur, avec une approche basée sur <span class="highlight">le respect et l'encouragement</span>.
 
-## Quand faire appel à un éducateur canin ?
+## Quand faire appel à un éducateur canin&nbsp;?
 
 Par exemple lorsque ton chien :
 
@@ -33,10 +33,10 @@ Par exemple lorsque ton chien :
 >
 > Vient d'être adopté et a besoin de repères
 
-Tous ces comportements ont **une cause** : stress, peur, manque de repères, expériences passées, incompréhension...  
+Tous ces comportements ont une cause : stress, peur, manque de repères, expériences passées, incompréhension...  
 L'éducation canine ne consiste pas à "corriger" le chien, mais à <span class="highlight">l'aider à apprendre autrement</span>.
 
-## **Une méthode d'éducation canine positive**
+## Une méthode d'éducation canine positive
 
 Mon travail repose sur une **méthode positive**, sans violence ni contrainte.  
 Je cherche à comprendre pourquoi ton chien agit comme il le fait, je t'aide à lire ses signaux de communication, puis je te propose des exercices adaptés.
@@ -45,13 +45,13 @@ Je cherche à comprendre pourquoi ton chien agit comme il le fait, je t'aide à 
 
 ![Séance d'éducation canine – travail du jeu et de la relation](../assets/images/donne-le-ballon.jpg)
 
-## **Mise en place d'un suivi éducatif**
+## Mise en place d'un suivi éducatif
 
 Avant toute séance, un **bilan comportemental** est nécessaire.
 
 ### Le bilan comportemental
 
-Ce premier rendez-vous dure environ **1h30** et se déroule **à ton domicile**.  
+Ce premier rendez-vous dure environ <span class="highlight">1h30</span> et se déroule <span class="highlight">à ton domicile</span>.  
 Il me permet de comprendre :
 
 - ton chien (âge, histoire, environnement)
@@ -78,7 +78,7 @@ Elles permettent notamment :
 
 ⚠️ Il ne s'agit pas de dressage, mais <span class="highlight">d'éducation et de compréhension mutuelle</span>.
 
-## **Rééducation et troubles du comportement**
+## Rééducation et troubles du comportement
 
 Lorsque les apprentissages n'ont pas été faits correctement, ou suite à des expériences négatives (changements de vie, traumatismes, stress...), un chien peut développer des **troubles du comportement** :
 
@@ -102,7 +102,7 @@ Un suivi plus long peut être nécessaire.
 
 ### Ma philosophie de travail
 
-Quel que soit l'apprentissage à mettre en place, **je n'utilise jamais la violence**, les cris, la peur ou les méthodes punitives, car <span class="highlight">la sécurité et le bien-être passent avant tout.
+Quel que soit l'apprentissage à mettre en place, <span class="highlight">je n'utilise jamais la violence</span>, les cris, la peur ou les méthodes punitives, car <span class="highlight">la sécurité et le bien-être passent avant tout.
 
 Et pourtant, j'ai aidé de nombreux binômes Chien-Humain à vivre sereinement, à commencer par moi-même 😉  
 Mon accompagnement s'appuie sur mon expérience de terrain et une formation continue en comportement et communication canine.

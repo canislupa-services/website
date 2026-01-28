@@ -5,15 +5,15 @@ description: Services d'éducation canine positive, comportement du chien, dogsi
 permalink: /services/
 ---
 
-# **Mes services d'éducation canine, de dogsitting et de prévention des morsures**
+# Mes services d'éducation canine, de dogsitting et de prévention des morsures
 
-J'accompagne les humains et leurs chiens à **Saint-Étienne**, **Firminy**, **Roche-la-Molière**, **Villars**, **La Talaudière**, **Saint-Jean-Bonnefond**, **Planfoy** et dans les communes voisines, pour améliorer le quotidien, prévenir les difficultés et construire une relation plus sereine.
+J'accompagne les humains et leurs chiens à **Saint-Étienne** (et alentours : Firminy, Roche-la-Molière, Villars, La Talaudière, Saint-Jean-Bonnefond, Planfoy et dans les communes voisines), pour améliorer le quotidien, prévenir les difficultés et construire une relation plus sereine.
 
 Mes services s'adressent aussi bien aux **chiots** qu'aux **chiens adultes**, quels que soient leurs besoins, leur histoire ou leurs problématiques.
 
 ---
 
-## **Éducation canine et comportement du chien** {#education-canine}
+## Éducation canine et comportement du chien {#education-canine}
 
 Je propose un accompagnement en **éducation canine positive**, basé sur la compréhension du chien, le respect de ses émotions et un suivi adapté à ton mode de vie.
 
@@ -24,12 +24,12 @@ Je propose un accompagnement en **éducation canine positive**, basé sur la com
 🐾 Méthode basée sur <span class="highlight">l'encouragement et la coopération</span>
 
 <div class="cta-center">
-  <a class="bouton-vert" href="{{ '/pourquoi-faire-appel/' | relative_url }}">Pourquoi faire appel ?</a>
+  <a class="bouton-vert" href="{{ '/pourquoi-faire-appel/' | relative_url }}">Pourquoi faire appel&nbsp;?</a>
 </div>
 
 ### Le bilan comportemental du chien
 
-Le **bilan comportemental** est le premier rendez-vous indispensable avant toute séance d'éducation.  
+Le <span class="highlight">bilan comportemental</span> est le premier rendez-vous indispensable avant toute séance d'éducation.  
 Il permet de poser des bases solides et adaptées à ton chien, à ton environnement et à ton quotidien.
 
 Objectifs du bilan :
@@ -38,8 +38,8 @@ Objectifs du bilan :
 - comprendre vos besoins et vos difficultés
 - définir un **plan de travail personnalisé**
 
-🐾 <span class="highlight">Durée</span> : environ **1h30**  
-🐾 <span class="highlight">Lieu</span> : **à ton domicile**
+🐾 <span class="highlight">Durée</span> : environ <span class="highlight">1h30</span>  
+🐾 <span class="highlight">Lieu</span> : <span class="highlight">à ton domicile</span>
 
 ![Bilan comportemental et éducation canine à Saint-Étienne](../assets/images/mes-services-educ.jpg)
 
@@ -56,14 +56,14 @@ Une séance comprend :
 - l'évaluation des exercices précédemment proposés
 - de nouveaux exercices et/ou un travail de décryptage du comportement
 
-🐾 <span class="highlight">Durée</span> : environ **1h**  
+🐾 <span class="highlight">Durée</span> : environ <span class="highlight">1h</span>
 🐾 <span class="highlight">Lieu</span> : domicile, quartier, parc... selon les besoins
 
 ---
 
 ### Le suivi premium
 
-Si tu ne te sens pas à l'aise pour travailler seul·e entre les séances, le **suivi premium** permet un accompagnement renforcé et plus régulier.
+Si tu ne te sens pas à l'aise pour travailler seul·e entre les séances, le <span class="highlight">suivi premium</span> permet un accompagnement renforcé et plus régulier.
 
 Ce suivi inclut :
 
@@ -71,7 +71,7 @@ Ce suivi inclut :
 - des ajustements précis en fonction de l'évolution
 - une progression plus encadrée
 
-🐾 <span class="highlight">Durée</span> : environ **30 minutes**  
+🐾 <span class="highlight">Durée</span> : environ <span class="highlight">30 minutes</span>
 🐾 <span class="highlight">Lieu</span> : domicile, quartier, parc...
 
 <div class="cta-center">
@@ -80,7 +80,7 @@ Ce suivi inclut :
 
 ---
 
-## **Dogsitting et promenades de chiens à Saint-Étienne** {#dogsitting-promenade}
+## Dogsitting et promenades de chiens à Saint-Étienne {#dogsitting-promenade}
 
 Je propose également des prestations de **dogsitting et de promenades**, ponctuelles ou régulières, adaptées à ton organisation et aux besoins de ton chien.
 
@@ -90,7 +90,7 @@ Services proposés :
 - balades individuelles ou collectives
 - accueil centre aéré pour chiens
 
-🐾 <span class="highlight">Durée</span> : de **30 minutes à plusieurs heures**  
+🐾 <span class="highlight">Durée</span> : de <span class="highlight">30 minutes à plusieurs heures</span>  
 🐾 <span class="highlight">Lieu</span> : domicile, quartier, parc, forêt...
 
 <div class="cta-center">
@@ -101,14 +101,14 @@ Services proposés :
 
 ---
 
-## **Prévention des morsures, le Programme PECCRAM** {#prevention-des-morsures}
+## Prévention des morsures, le Programme PECCRAM {#prevention-des-morsures}
 
 Le Programme d'Éducation à la Connaissance du Chien et au Risque d'Accident par Morsure (PECCRAM) créé par Chantal Hazard (FIMAC), vise à **prévenir les accidents par morsure**, notamment auprès des **enfants de 4 à 10 ans**, en leur apprenant à :
 
 - reconnaître le langage canin
 - adopter les bons comportements face à un chien
 
-Les interventions peuvent comprendre jusqu'à **6 séances avec un même groupe**.
+Les interventions peuvent comprendre jusqu'à <span class="highlight">6 séances avec un même groupe</span>.
 
 ### Déroulé d'une séance PECCRAM
 
@@ -116,10 +116,10 @@ Les interventions peuvent comprendre jusqu'à **6 séances avec un même groupe*
 - activité pratique pour intégrer une gestuelle
 - jeu de rôle
 
-🐾 <span class="highlight">Durée</span> : environ **1h**  
+🐾 <span class="highlight">Durée</span> : environ <span class="highlight">1h</span>  
 🐾 <span class="highlight">Lieu</span> : écoles, centres sociaux, structures périscolaires...
 
-**Quelques chiffres clés :**
+<span class="highlight">Quelques chiffres clés :</span>
 
 - 50 % des enfants de 3 à 5 ans confondent un chien stressé et joyeux
 - avec une éducation adaptée : seulement 17 % d'erreurs
@@ -132,21 +132,19 @@ Les interventions peuvent comprendre jusqu'à **6 séances avec un même groupe*
 
 ---
 
-### Pourquoi faire appel à Canislupa ?
+### Pourquoi faire appel à Canislupa&nbsp;?
 
 - Approche respectueuse du chien
 - Accompagnement personnalisé et progressif
-- Interventions à domicile à **Saint-Étienne et alentours**
+- Interventions à domicile à Saint-Étienne et alentours
 - Expérience en éducation, comportement et prévention
 
 Tu peux également retrouver mes informations sur  
 👉 [proxianimaux.fr](https://www.proxianimaux.fr/acteur/1570)
 
-Besoin d'un premier échange ?  
+Besoin d'un premier échange&nbsp;?  
 👉 [Me contacter]({{ "/" | relative_url }})
 
 ---
 
 [← Retour à l'accueil]({{ "/" | relative_url }})
-
-

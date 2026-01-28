@@ -1,9 +1,39 @@
-<!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+<!-- start custom head snippets -->
 
-<!-- Setup Google Analytics -->
-<!-- {% include head-custom-google-analytics.html %} -->
+<meta name="theme-color" content="#86b049" />
 
-<!-- You can set your favicon here -->
-<!-- link rel="shortcut icon" type="image/x-icon" href="{{ '/favicon.ico' | relative_url }}" -->
+<!-- Favicons -->
+<link rel="icon" href="{{ '/favicon.ico' | relative_url }}" sizes="any" />
+
+<!-- Fonts -->
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link
+    href="https://fonts.googleapis.com/css2?family=Caveat+Brush&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap"
+    rel="stylesheet" />
+
+<!-- Données structurées Local/Service -->
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "ProfessionalService",
+    "name": "Canislupa",
+    "url": "{{ site.url | default: 'https://canislupa.fr' }}{{ '/' | relative_url }}",
+    "telephone": "+33626490040",
+    "email": "canislupa@gmx.fr",
+    "areaServed": [{ "@type": "City", "name": "Saint-Étienne" }],
+    "knowsAbout": [
+      "éducation canine",
+      "rééducation du chien",
+      "comportement du chien",
+      "dogsitting",
+      "prévention morsure (PECCRAM)"
+    ],
+    "sameAs": [
+      "https://www.facebook.com/canislupaeducationcanine",
+      "https://www.instagram.com/mary_canislupa/"
+    ]
+  }
+</script>
 
 <!-- end custom head snippets -->
