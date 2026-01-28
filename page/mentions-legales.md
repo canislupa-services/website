@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Mentions légales | Canislupa
-description: "Mentions légales du site Canislupa : éditeur, hébergement, contact et informations réglementaires.
+description: "Mentions légales du site Canislupa : éditeur, hébergement, contact et informations réglementaires."
+last_modified_at: 2026-01-28
 permalink: /mentions-legales/
 ---
 

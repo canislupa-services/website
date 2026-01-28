@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Tarifs éducation canine et dogsitting à Saint-Étienne | CANISLUPA
-description: Tarifs d'éducation canine, bilan comportemental, dogsitting et prévention des morsures (PECCRAM) à Saint-Étienne et alentours.
+description: "Tarifs d'éducation canine, bilan comportemental, dogsitting et prévention des morsures (PECCRAM) à Saint-Étienne et alentours."
+last_modified_at: 2026-01-28
 permalink: /tarifs/
 ---
 

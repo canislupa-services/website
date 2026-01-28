@@ -2,6 +2,7 @@
 layout: default
 title: Pourquoi et quand faire appel à un educateur canin à Saint-Étienne ? | CANISLUPA
 description: "Chien qui tire en laisse, aboie, réagit aux congénères ou manque de rappel ? Canislupa vous accompagne à Saint-Étienne avec une méthode positive et un plan adapté."
+last_modified_at: 2026-01-28
 permalink: /pourquoi-faire-appel/
 ---
 

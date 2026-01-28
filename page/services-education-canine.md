@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Éducation d'éducation canine positive à Saint-Étienne | CANISLUPA
-description: Éducation canine positive, bilan comportemental, rééducation, dogsitting et prévention des morsures (PECCRAM) à Saint-Étienne et alentours. Séances adaptées à votre chien.
+description: "Éducation canine positive, bilan comportemental, rééducation, dogsitting et prévention des morsures (PECCRAM) à Saint-Étienne et alentours. Séances adaptées à votre chien."
+last_modified_at: 2026-01-28
 permalink: /services/
 ---
 

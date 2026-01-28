@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Mary – éducatrice canin à Saint-Étienne | Canislupa
-description: Découvrez le parcours, les formations et l'approche de Mary, éducatrice canine à Saint-Étienne. Méthode positive, respectueuse et personnalisée.
+description: "Découvrez le parcours, les formations et l'approche de Mary, éducatrice canine à Saint-Étienne. Méthode positive, respectueuse et personnalisée."
+last_modified_at: 2026-01-28
 permalink: /qui-suis-je/
 ---
 
