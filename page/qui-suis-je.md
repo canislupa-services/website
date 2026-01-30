@@ -55,7 +55,7 @@ Je me forme en continu afin d'actualiser mes connaissances et d'adapter ma prati
 
 ### 2023
 
-- Déclics et des chiens : Activités de calme, marche en laisse
+- <a href="https://www.declic-et-des-chiens.fr/" target="_blank" rel="noopener noreferrer" title="Formations en ligne" aria-label="Formations en ligne (ouvre dans un nouvel onglet)">Déclics et des chiens</a> : Activités de calme, marche en laisse
 
 ---
 
