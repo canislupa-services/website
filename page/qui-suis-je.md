@@ -46,7 +46,7 @@ Je me forme en continu afin d'actualiser mes connaissances et d'adapter ma prati
 ### 2024
 
 - ZOOPRO : ACACED
--  Évolution Canine, Cynrgie :Formations/Webinaires chiens réactifs / agressifs
+-  <a href="https://evolutioncanineacademie.ca/?v=82a9e4d26595" target="_blank" rel="noopener noreferrer" title="formations en ligne et éthologie" aria-label="formations en ligne et éthologie (ouvre dans un nouvel onglet)">Évolution Canine</a> , <a href="https://www.instagram.com/cynrgie/" target="_blank" rel="noopener noreferrer" title="webinaires éthologie" aria-label="webinaires éthologie (ouvre dans un nouvel onglet)">Cynrgie</a> :Formations/Webinaires chiens réactifs / agressifs
 - <a href="https://www.mfec.fr/" target="_blank" rel="noopener noreferrer" title="association des professionnels de l'éducation canine en méthodes amicales et positives" aria-label="association des professionnels de l'éducation canine en méthodes amicales et positives (ouvre dans un nouvel onglet)">MFEC</a> : Éducation canine positive (certifiée)
 
 ### 2023 / 2024
