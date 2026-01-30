@@ -36,11 +36,11 @@ Je me forme en continu afin d'actualiser mes connaissances et d'adapter ma prati
 ### 2026
 
 - Muzoplus : Webinaire _Le chien sourd_
-- Jérémy Serindat : Stage Réactivité Chien–Humain (RCH) pour les chiens peureux et agressifs
+-  <a href="https://jeremyserindat.com/produit/stage-de-perfectionnement-rch-2-0-du-23-au-28-juin-2025/" target="_blank" rel="noopener noreferrer" title="stage chiens réactifs" aria-label="stage chiens réactifs (ouvre dans un nouvel onglet)">Jérémy Serindat</a> : Webinaire + Stage Réactivité Chien–Humain (RCH) pour les chiens réactifs / peureux / agressifs
 
 ### 2025
 
-- Déclics et des chiens : _Relax Max_ (chiens réactifs : peurs, agressivité)
+- <a href="https://www.declic-et-des-chiens.fr/relax-max/" target="_blank" rel="noopener noreferrer" title="formation chiens réactifs" aria-label="formation chiens réactifs (ouvre dans un nouvel onglet)">Déclics et des chiens</a> : _Relax Max_ (chiens réactifs : peurs, agressivité)
 - <a href="https://www.fimaccanin.fr/" target="_blank" rel="noopener noreferrer" title="favoriser la relation enfant-chien" aria-label="favoriser la relation enfant-chien (ouvre dans un nouvel onglet)">FIMAC CANIN</a> : PECCRAM (prévention des morsures)
 
 ### 2024
