@@ -47,7 +47,7 @@ Je me forme en continu afin d'actualiser mes connaissances et d'adapter ma prati
 
 - ZOOPRO : ACACED
 - Formations chiens réactifs / agressifs (Évolution Canine, Cynrgie)
-- MFEC : Éducation canine positive (certifiée)
+- <a href="https://www.mfec.fr/" target="_blank" rel="noopener noreferrer" title="association des professionnels de l'éducation canine en méthodes amicales et positives" aria-label="association des professionnels de l'éducation canine en méthodes amicales et positives (ouvre dans un nouvel onglet)">MFEC</a> : Éducation canine positive (certifiée)
 
 ### 2023 / 2024
 
