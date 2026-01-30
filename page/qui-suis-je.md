@@ -9,10 +9,10 @@ permalink: /qui-suis-je/
 # Qui suis-je&nbsp;?
 
 Je m'appelle <span class="highlight">Mary</span>,  
-je suis **éducatrice canine et comportementaliste à Saint-Étienne**.
+je suis **éducatrice canin et comportementaliste à Saint-Étienne**.
 
 J'aide les humains à retrouver un quotidien plus serein avec leurs **chiens** :  
-les grands, les petits, **les chiots**, les papis, les émotifs, les énergiques, les sensibles et les patapoufs...
+les grands, les petits, les **chiots**, les papis, les émotifs, les énergiques, les sensibles et les patapoufs...
 Mon objectif est de t'accompagner pour améliorer la relation avec ton chien :
 
 - qu'il soit plus apaisé
@@ -20,6 +20,7 @@ Mon objectif est de t'accompagner pour améliorer la relation avec ton chien :
 - qu'il se sente en sécurité
 - qu'il cesse de mordiller
 - qu'il reste attentif lors des promenades
+- etc...
 
 Je t'accompagne si tu es prêt·e à évoluer avec lui, à comprendre ses besoins et à mettre en place des **méthodes respectueuses**, sans contrainte ni douleur.  
 Mon approche repose sur <span class="highlight">la coopération, la bienveillance et la compréhension du chien</span>, pour que vous puissiez progresser ensemble.
@@ -50,7 +51,7 @@ Je me forme en continu afin d'actualiser mes connaissances et d'adapter ma prati
 
 ### 2023 / 2024
 
-- Nature de Chien : <a href="https://www.naturedechien.fr" target="_blank" rel="noopener noreferrer" title="Centre de formation pour éducateur canin" aria-label="Centre de formation pour éducateur canin (ouvre dans un nouvel onglet)">Éducation canine et étude du comportement</a>
+-  <a href="https://www.naturedechien.fr" target="_blank" rel="noopener noreferrer" title="Centre de formation pour éducateur canin" aria-label="Centre de formation pour éducateur canin (ouvre dans un nouvel onglet)">Nature de Chien :Éducation canine et étude du comportement</a>
 
 ### 2023
 
