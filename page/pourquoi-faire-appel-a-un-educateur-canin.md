@@ -8,7 +8,7 @@ permalink: /pourquoi-faire-appel/
 
 # Éducation canine et comportement du chien à Saint-Étienne
 
-Faire appel à une **éducatrice canine** permet de mieux comprendre son chien, de prévenir ou corriger certains comportements et d'améliorer la vie quotidienne du duo humain–chien.
+Faire appel à une **éducatrice canin** permet de mieux comprendre son chien, de prévenir ou corriger certains comportements et d'améliorer la vie quotidienne du duo humain–chien.
 
 J'interviens à <span class="highlight">Saint-Étienne et alentours</span>, **à domicile** et en extérieur, avec une approche basée sur <span class="highlight">le respect et l'encouragement</span>.
 
@@ -106,7 +106,37 @@ Un suivi plus long peut être nécessaire.
 Quel que soit l'apprentissage à mettre en place, <span class="highlight">je n'utilise jamais la violence</span>, les cris, la peur ou les méthodes punitives, car <span class="highlight">la sécurité et le bien-être passent avant tout.
 
 Et pourtant, j'ai aidé de nombreux binômes Chien-Humain à vivre sereinement, à commencer par moi-même 😉  
-Mon accompagnement s'appuie sur mon expérience de terrain et une formation continue en comportement et communication canine.
+Mon accompagnement s'appuie sur mon expérience de terrain et une formation continue en comportement canin.
+
+## Mes recommandations   
+### lectures, podcast, vidéos  
+#### livres:  
+- Chloé Fesch, _Le petit abc Rustica de l'éducation positive du chiot et du chien_  
+- Charlotte Duranton, _Le comportment de mon chien_   
+- Alice Mignot, _Ecoutez ce que votre chien veut vous dire_  
+
+#### podcast/webinaires:  
+- Dans la tête des chiens  
+- Madame a du chien
+- Webinaires du site Muzoplus
+
+#### vidéos:  
+- Documentaire, Turid Rugaas, _les signaux d'apaisement du chien_
+- Tutos et conseils d'éducation, Pauline Debarbat, Déclic et des chiens (chaine Youtube)
+- 
+
+### à Saint-Etienne  
+- librairie Lune et L'autre  
+- librairie Forum
+- Maxizoo Steel et Firminy
+#### Parcs et balades
+- Parc de Montaud
+- Parc Joseph Sanguedolce
+- Jardin des plantes
+- Parc de l'Europe
+- Bois d'Avaize
+- Gouffre d'enfer
+- Voie verte de Saint-Etienne
 
 <div class="cta-center">
   <a class="bouton-vert" href="{{ '/qui-suis-je/' | relative_url }}">En savoir plus sur moi</a>
@@ -115,3 +145,4 @@ Mon accompagnement s'appuie sur mon expérience de terrain et une formation cont
 ---
 
 [← Retour à l'accueil]({{ "/" | relative_url }})
+
