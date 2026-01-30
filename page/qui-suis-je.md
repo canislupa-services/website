@@ -35,7 +35,7 @@ Je me forme en continu afin d'actualiser mes connaissances et d'adapter ma prati
 
 ### 2026
 
-- Muzoplus : Webinaire _Le chien sourd_
+- <a href="https://muzoplus.fr/cours/le-chien-sourd/" target="_blank" rel="noopener noreferrer" title="webinaire chien sourd" aria-label="webinaire chien sourd (ouvre dans un nouvel onglet)">Muzoplus</a> : Webinaire _Le chien sourd_
 -  <a href="https://jeremyserindat.com/produit/stage-de-perfectionnement-rch-2-0-du-23-au-28-juin-2025/" target="_blank" rel="noopener noreferrer" title="stage chiens réactifs" aria-label="stage chiens réactifs (ouvre dans un nouvel onglet)">Jérémy Serindat</a> : Webinaire + Stage Réactivité Chien–Humain (RCH) pour les chiens réactifs / peureux / agressifs
 
 ### 2025
@@ -87,15 +87,15 @@ J'ai passé ensuite <span class="highlight">trois ans sans chien</span>, tout en
 ## Tao, le chien qui a tout changé
 
 En 2023, <span class="highlight">Tao</span> est entré dans ma vie.  
-Cane Corso x Malinois, maltraité, puis passé plusieurs années en refuge.
+Cane Corso x Malinois, chiot maltraité puis abandonné, il a passé plusieurs années en refuge.
 
 Tao, c'est 40 kg de muscles... et énormément de peur.  
 Il tire, charge, explose, réagit, agresse. Chaque sortie est un défi.
 
 ![Tao, chien réactif et sensible](../assets/images/chien-regard.jpg)
 
-Tao a accéléré ma formation et ma compréhension de la **communication canine**.
-Il est celui qui m'a fait autant douter que progresser dans mon métier d'éducatrice.
+Tao a accéléré ma formation et ma compréhension du **langage canin**.
+Il est celui qui m'a fait autant douter que progresser dans mon métier d'éducatrice/comportmentaliste.
 
 Grâce à lui, je sais ce que vous vivez lorsque vous avez un chien peureux, réactif ou agressif.  
 Je connais :
@@ -104,19 +104,12 @@ Je connais :
 - les douleurs physiques quand il tire en laisse
 - le stress des balades
 - le découragement
-- les questions difficiles que l'on se pose
-
-> Est-il fait pour vivre avec moi&nbsp;?
->
-> Est-ce que je le rends malheureux&nbsp;?
->
-> Dois-je le donner&nbsp;?
->
-> Que faire s'il mord&nbsp;?
+- les questions difficiles que l'on se pose:  
+" Est-il fait pour vivre avec moi&nbsp;?  Est-ce que je le rends malheureux&nbsp;?  Dois-je le donner&nbsp;? Que faire s'il mord quelqu'un&nbsp;? "
 
 ### Et je sais comment améliorer cette situation.
 
-Mon accompagnement s'appuie sur mon expérience de terrain, mon vécu personnel et une formation continue en **comportement et communication canine**, afin de vous aider à retrouver une relation plus sereine et sécurisée.
+Mon accompagnement s'appuie sur mon expérience de terrain, mon vécu personnel et une formation continue en **comportement canin**, afin de vous aider à retrouver une relation plus sereine et sécurisée.
 
 <div class="cta-center">
   <a class="bouton-vert" href="{{ '/tarifs/' | relative_url }}">Voir mes tarifs</a>
