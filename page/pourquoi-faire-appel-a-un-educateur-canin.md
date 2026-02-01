@@ -111,9 +111,9 @@ Mon accompagnement s'appuie sur mon expérience de terrain et une formation cont
 ## Mes recommandations   
 ### lectures, podcast, vidéos  
 #### livres:  
-- Chloé Fesch, _Le petit abc Rustica de l'éducation positive du chiot et du chien_  
-- Charlotte Duranton, _Le comportment de mon chien_   
-- Alice Mignot, _Ecoutez ce que votre chien veut vous dire_  
+- Chloé Fesch, <a href="https://www.rusticaeditions.com/9782815311038-le-petit-abc-rustica-de-l-education-positive-du-chiot-et-du-chien.html" target="_blank" rel="noopener noreferrer" title="Livre de Chloé Fesch pour éduquer son chiot" aria-label="Livre de Chloé Fesch pour éduquer son chiot (ouvre dans un nouvel onglet)">_Le petit abc Rustica de l'éducation positive du chiot et du chien_</a>  
+- Charlotte Duranton, <a href="https://www.vox-animae.com/produit/le-comportement-de-mon-chien/" target="_blank" rel="noopener noreferrer" title="Livre de Charlotte Duranton" aria-label="Livre de Charlotte duranton (ouvre dans un nouvel onglet)">_Le comportment de mon chien_</a>  
+- Alice Mignot, <a href="https://www.forum-saint-etienne.com/livre/9782322616596-dans-la-tete-des-chiens-ecoutez-ce-que-votre-chien-veut-vous-dire-alice-mignot/" target="_blank" rel="noopener noreferrer" title="Livre de Alice Mignot" aria-label="Livre de Alice Mignot (ouvre dans un nouvel onglet)">_Ecoutez ce que votre chien veut vous dire_</a>  
 
 #### podcast/webinaires:  
 - Dans la tête des chiens  
@@ -145,4 +145,5 @@ Mon accompagnement s'appuie sur mon expérience de terrain et une formation cont
 ---
 
 [← Retour à l'accueil]({{ "/" | relative_url }})
+
 
