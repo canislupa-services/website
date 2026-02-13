@@ -6,14 +6,12 @@ description: Éducation canine positive, bilan comportemental, rééducation, do
 
 # Éducatrice canin et comportementaliste
 
-Tu voudrais éduquer ton Bouledogue Français sans cris et sans contrainte&nbsp;? Ne plus te sentir dépassé-e par ton Malinois&nbsp;? Sortir sans stress avec ton border Collie ou ton Berger Allemand&nbsp;? Pouvoir faire confiance à ton Berger Australien&nbsp;? Apprendre les bases éducatives à ton Cocker chiot&nbsp;? Comprendre pourquoi ton Spitz aboie sans cesse&nbsp;?
+Tu voudrais éduquer ton Bouledogue Français sans cris et sans contrainte&nbsp;? Ne plus te sentir dépassé-e par ton Malinois&nbsp;? Sortir sans stress avec ton Border Collie ou ton Berger Allemand&nbsp;? Pouvoir faire confiance à ton Berger Australien&nbsp;? Apprendre les bases éducatives à ton Cocker chiot&nbsp;? Comprendre pourquoi ton Spitz aboie sans cesse&nbsp;?  
 
-J'accompagne tous types de chiens, avec une approche **d'éducation canine positive**, basée sur <span class="highlight">le respect du chien</span>. Je t'aide à construire une relation plus sereine grâce à l'éducation, la rééducation et la compréhension du comportement.  
-Chaque race de chien a ses besoins particuliers, stimulation mentale, physique, besoins d'attention, mais chaque chien est unique avec ses traits de caractères, son histoire, son développement. Je m'adapte à lui, à votre binôme et à tout le foyer familial.
+Chien peureux, réactif, agressif, mordeur&nbsp;? Tu es au bon endroit, **je suis spécialisée dans l'accompagnement de la réactivité** ,  avec une approche **d'éducation canine positive**, basée sur <span class="highlight">le respect du chien</span>. Je m'adapte au chien, à votre binôme et à tout le foyer familial.  
+  
 
-Chien peureux, réactif, agressif, mordeur&nbsp;? Tu es au bon endroit, **je suis spécialisée dans l'accompagnement** de ces problématiques difficiles à vivre pour toi et ton chien.
-
-**Secteur :** Saint-Étienne et alentours, Firminy, Roche-la-Molière, Villars, La Talaudière, Saint-Jean-Bonnefond, Planfoy...
+**Secteur :** Saint-Étienne et alentours, Firminy, Roche-la-Molière, Villars, La Talaudière, Saint-Jean-Bonnefond, Planfoy...  
 
 <div class="cta-center">
   <a class="bouton-vert" href="{{ '/services/' | relative_url }}">Découvrir mon accompagnement</a>
