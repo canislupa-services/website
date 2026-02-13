@@ -139,7 +139,7 @@ Les interventions peuvent comprendre jusqu'à <span class="highlight">6 séances
 - Interventions à domicile à Saint-Étienne et alentours
 - Expérience en éducation, comportement et prévention
 
-Tu peux également retrouver mes informations sur  
+Tu peux également retrouver mes informations sur diverses plateformes d'**éducateur canin**  
 👉 [proxianimaux](https://www.proxianimaux.fr/acteur/1570)  
 👉 [rintintin](https://rintintin-booking.com/)  
 
@@ -152,5 +152,6 @@ Accompagnements: **Saint-Étienne** et alentours (Firminy, Roche-la-Molière, Vi
 ---
 
 [← Retour à l'accueil]({{ "/" | relative_url }})
+
 
 
