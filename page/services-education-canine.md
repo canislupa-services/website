@@ -8,9 +8,7 @@ permalink: /services/
 
 # Mes services d'éducation canine, de dogsitting et de prévention des morsures
 
-Accompagnements: **Saint-Étienne** et alentours (Firminy, Roche-la-Molière, Villars, La Talaudière, Saint-Jean-Bonnefond, Planfoy...)  
-
-Mes services pour **chiots** ou bien **chiens adultes**, quels que soient leurs besoins, leur histoire ou leurs problématiques: amélioration du quotidien, prévention des difficultés, construction d'une relation plus sereine.
+Pour **chiots** ou bien **chiens adultes**, quels que soient leurs besoins, leur histoire ou leurs problématiques: amélioration du quotidien, prévention des difficultés, construction d'une relation plus sereine. Je me déplace à <span class="highlight">ton domicile</span> la plupart du temps, pour voir évoluer le chien dans son environnement réel.
 
 
 ---
@@ -142,12 +140,17 @@ Les interventions peuvent comprendre jusqu'à <span class="highlight">6 séances
 - Expérience en éducation, comportement et prévention
 
 Tu peux également retrouver mes informations sur  
-👉 [proxianimaux.fr](https://www.proxianimaux.fr/acteur/1570)
+👉 [proxianimaux](https://www.proxianimaux.fr/acteur/1570)  
+👉 [rintintin](https://rintintin-booking.com/)  
 
 Besoin d'un premier échange&nbsp;?  
-👉 [Me contacter]({{ "/" | relative_url }})
+👉 [Me contacter]({{ "/" | relative_url }})  
+
+Accompagnements: **Saint-Étienne** et alentours (Firminy, Roche-la-Molière, Villars, La Talaudière, Saint-Jean-Bonnefond, Planfoy...)  
+
 
 ---
 
 [← Retour à l'accueil]({{ "/" | relative_url }})
+
 
