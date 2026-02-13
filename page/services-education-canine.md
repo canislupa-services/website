@@ -24,7 +24,7 @@ Je propose un accompagnement en **éducation canine positive**, basé sur la com
 🐾 Méthode basée sur <span class="highlight">l'encouragement et la coopération</span>
 
 <div class="cta-center">
-  <a class="bouton-vert" href="{{ '/pourquoi-faire-appel/' | relative_url }}">Pourquoi faire appel&nbsp;?</a>
+  <a class="bouton-vert" href="{{ '/pourquoi-faire-appel/' | relative_url }}">Pourquoi faire appel à moi&nbsp;?</a>
 </div>
 
 ### Le bilan comportemental du chien
@@ -141,7 +141,7 @@ Les interventions peuvent comprendre jusqu'à <span class="highlight">6 séances
 
 Tu peux également retrouver mes informations sur diverses plateformes d'**éducateur canin**  
 👉 [proxianimaux](https://www.proxianimaux.fr/acteur/1570)  
-👉 [rintintin](https://rintintin-booking.com/)  
+👉 [rintintin](https://rintintin-booking.com/pro/canislupa)  
 
 Besoin d'un premier échange&nbsp;?  
 👉 [Me contacter]({{ "/" | relative_url }})  
@@ -152,6 +152,7 @@ Accompagnements: **Saint-Étienne** et alentours (Firminy, Roche-la-Molière, Vi
 ---
 
 [← Retour à l'accueil]({{ "/" | relative_url }})
+
 
 
 
