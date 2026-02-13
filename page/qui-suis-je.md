@@ -36,7 +36,7 @@ Je me forme en continu afin d'actualiser mes connaissances et d'adapter ma prati
 ### 2026
 
 - <a href="https://muzoplus.fr/cours/le-chien-sourd/" target="_blank" rel="noopener noreferrer" title="webinaire chien sourd" aria-label="webinaire chien sourd (ouvre dans un nouvel onglet)">Muzoplus</a> : Webinaire _Le chien sourd_
--  <a href="https://jeremyserindat.com/produit/stage-de-perfectionnement-rch-2-0-du-23-au-28-juin-2025/" target="_blank" rel="noopener noreferrer" title="stage chiens réactifs" aria-label="stage chiens réactifs (ouvre dans un nouvel onglet)">Jérémy Serindat</a> : Webinaire + Stage Réactivité Chien–Humain (RCH) pour les chiens réactifs / peureux / agressifs
+-  <a href="https://jeremyserindat.com/produit/stage-de-perfectionnement-rch-2-0-du-23-au-28-juin-2025/" target="_blank" rel="noopener noreferrer" title="stage chiens réactifs" aria-label="stage chiens réactifs (ouvre dans un nouvel onglet)">Jérémy Serindat</a> : Webinaire + Stage (mai 2026) Réactivité Chien–Humain (RCH) pour les chiens réactifs / peureux / agressifs
 
 ### 2025
 
