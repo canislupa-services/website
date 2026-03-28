@@ -59,7 +59,7 @@ Les forfaits permettent un accompagnement progressif et cohérent, en fonction d
   🐾 5 séances → 205 €
 
 - [Chien peureux, agressif ou troubles du développement]({{ '/pourquoi-faire-appel/#chien-peureux-ou-agressif' | relative_url }})  
-  🐾 8 séances → 320 €
+  🐾 8 séances → 310 €
 
 🐾 À partir de <span class="highlight">10 séances</span> : <span class="highlight">35 € / séance</span>
 
