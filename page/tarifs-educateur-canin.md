@@ -83,7 +83,7 @@ Bilan comportemental 50 €
 - Forfait 5 séances 205 €
 - 10 suivis de 30 min 220 €
 
-👉 <span class="highlight">Total suivi premium</span> : 455 €
+👉 <span class="highlight">Total suivi premium</span> : 475 €
 
 ---
 
