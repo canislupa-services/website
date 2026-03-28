@@ -59,7 +59,7 @@ Les forfaits permettent un accompagnement progressif et cohérent, en fonction d
   🐾 5 séances → 205 €
 
 - [Chien peureux, agressif ou troubles du développement]({{ '/pourquoi-faire-appel/#chien-peureux-ou-agressif' | relative_url }})  
-  🐾 8 séances → 315 €
+  🐾 8 séances → 320 €
 
 🐾 À partir de <span class="highlight">10 séances</span> : <span class="highlight">35 € / séance</span>
 
@@ -68,10 +68,11 @@ Les forfaits permettent un accompagnement progressif et cohérent, en fonction d
 ### Suivi Premium
 
 Le suivi premium permet un accompagnement renforcé entre les séances d'éducation, pour répondre à tes questions et ajuster le travail au quotidien.
+Adapté pour les personnes qui n'arrivent pas à faire les exercices en dehors des séances
 
 - 1 suivi (30 min) → 25 €
-- 5 suivis → 110 €
-- 10 suivis → 200 €
+- 5 suivis → 120 €
+- 10 suivis → 220 €
 
 🐾 <span class="highlight">Durée</span> : environ 30 minutes  
 🐾 <span class="highlight">Lieu</span> : domicile, quartier, parc...
@@ -80,7 +81,7 @@ _Exemple de suivi premium :_
 Bilan comportemental 50 €
 
 - Forfait 5 séances 205 €
-- 10 suivis de 30 min 200 €
+- 10 suivis de 30 min 220 €
 
 👉 <span class="highlight">Total suivi premium</span> : 455 €
 
