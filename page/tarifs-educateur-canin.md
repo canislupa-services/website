@@ -92,7 +92,7 @@ Bilan comportemental 50 €
 ### Balades individuelles / visites à domicile
 
 - 30 minutes → 15 €
-- 1 heure → 20 €
+- 1 heure → 25 €
 
 🐾 Supplément de <span class="highlight">0,50 €/km</span> au-delà de <span class="highlight">10 km</span> autour de Saint-Étienne.
 
