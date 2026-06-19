@@ -125,10 +125,14 @@ Mon accompagnement s'appuie sur mon expérience de terrain et une formation cont
 - Tutos et conseils d'éducation, Pauline Debarbat, Déclic et des chiens (chaine Youtube)
 - 
 
-### à Saint-Etienne  
+#### FRIANDISES ET MASTICATION 
+- Epicanin : <a href="https://epicanin.com/" target="_blank" rel="noopener noreferrer" title="Epicanin friandises et mastication pour chiens" aria-label="Boutique Epicanin (ouvre dans un nouvel onglet)">_Boutique Epicanin_</a>
+
+#### à Saint-Etienne  
 - librairie Lune et L'autre  
 - librairie Forum
 - Maxizoo Steel et Firminy
+
 #### Parcs et balades
 - Parc de Montaud
 - Parc Joseph Sanguedolce
