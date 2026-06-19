@@ -129,7 +129,7 @@ Mon accompagnement s'appuie sur mon expérience de terrain et une formation cont
 De mon côté, la grande majorité de ce que donne à mon chien vient de cette boutique en ligne:  
 <a href="https://epicanin.com/" target="_blank" rel="noopener noreferrer" title="Epicanin friandises et mastication pour chiens" aria-label="Boutique Epicanin (ouvre dans un nouvel onglet)">_Boutique Epicanin_</a>  
 Epicanin c’est 100% naturel, sans traitement chimique, sans additifs, sans colorants. Pour ne pas dénaturer les produits et pour conserver la qualité nutritive, toutes les friandises sont séchées à basse température.   
-La fabrique se trouve dans le Jura, l'équipe est hyper réactive quand on a des question, j'adore!  
+La fabrique se trouve dans le Jura, l'équipe est hyper réactive quand on a des questions, j'adore!  
 
 
 #### à Saint-Etienne  
