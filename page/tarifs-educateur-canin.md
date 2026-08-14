@@ -143,13 +143,11 @@ Fournis : collier fluo avec mon numéro de téléphone sur chaque chien
 Inscription via Rintintin booking, ou WhatsApp Communauté (liens à venir en novembre 2026)  
 
 
-<span class="highlight">Balade</span> : ### 30 €  
-🐾 <span class="highlight">Durée</span> : 1h30 (hors trajet)
-🐾 <span class="highlight">Lieu</span> : Bessy/Egotay à Roche La Molière, ou  Guizay, ou 
+<span class="highlight">Balade : 30 €</span>  
+🐾 <span class="highlight">Durée</span> : 1h30 (hors trajet)  
+🐾 <span class="highlight">Lieu</span> : Bessy/Egotay à Roche La Molière, ou  Guizay, ... 
 
 🐾 Groupe limité à <span class="highlight">5 chiens maximum</span>  
-💶 <span class="highlight">40 € / chien</span>
-
 
 ---
 
