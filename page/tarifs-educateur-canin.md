@@ -18,7 +18,7 @@ Tu trouveras ici le détail des tarifs pour les prestations d'**éducation canin
 
 Le bilan comportemental est le premier rendez-vous indispensable avant toute mise en place d'un suivi éducatif.
 
-<span class="highlight">Bilan comportemental</span> : ### 50 €  
+<span class="highlight">Bilan comportemental : 50 €</span>  
 🐾 <span class="highlight">Durée</span> : environ 1h30  
 🐾 <span class="highlight">Lieu</span> : à ton domicile
 
@@ -31,7 +31,7 @@ Bilan à tarif réduit pour les chiens adoptés en refuge ou association de prot
 
 ### Les séances d'éducation canine 🧎🏽‍♀️‍➡️🐕
 
-<span class="highlight">Séance d'éducation</span> : ### 45 €  
+<span class="highlight">Séance d'éducation : 45 €</span>  
 🐾 <span class="highlight">Durée</span> : environ 1h  
 🐾 <span class="highlight">Lieu</span> : domicile, quartier, parc ou lieu adapté au travail à effectuer
 
@@ -47,9 +47,9 @@ Au-delà, un supplément de <span class="highlight">0,50 €/km</span> s'appliqu
 _Exemple : Saint-Genest-Lerpt (14 km A/R, 4km facturés) → + 2 €_   
           _Villars → + 4 €_   
           _St-Priest-En-Jarez → + 6 €_   
-          _St-Jean-Bonnefond → + 5 €_
-          _Planfoy → + 6 €_
-          _Firminy → + 7 €_
+          _St-Jean-Bonnefond → + 5 €_  
+          _Planfoy → + 6 €_  
+          _Firminy → + 7 €_  
 
 ---
 
@@ -96,17 +96,17 @@ _Exemple de suivi premium :_
 Les activités collectives ne sont accessibles qu'aux chiens <span class="highlight">déjà en suivis avec moi</span>. Elles se déroulent avec vous.  
 
 - Cours pour les chiens sensibles/réactifs/excités (2 à 4 chiens maxi)  
-<span class="highlight">Séance collective</span> : ### 25 €  
+<span class="highlight">Séance collective</span> : 25 €  
 🐾 <span class="highlight">Durée</span> : environ 1h  
 🐾 <span class="highlight">Lieu</span> :  Parc (Puy Couriot ou Valfuret)    
 
 - Cours pour les chiots ados 18 mois maxi, bien dans leurs pattes (3 à 6 chiots maxi)  
-<span class="highlight">Séance collective</span> : ### 15 €  
+<span class="highlight">Séance collective</span> : 15 €  
 🐾 <span class="highlight">Durée</span> : environ 1h   
 🐾 <span class="highlight">Lieu</span> :  Parc (Puy Couriot ou Valfuret)  
 
 - Balade Sociale, chiens tous âges, même les sensibles (avec mon accord si je trouve que le chien est ok pour la rejoindre)  
-<span class="highlight">Séance collective</span> : ### 20 €  
+<span class="highlight">Séance collective</span> : 20 €  
 🐾 <span class="highlight">Durée</span> : environ 1h30   
 🐾 <span class="highlight">Lieu</span> :  À définir  
 
