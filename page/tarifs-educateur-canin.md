@@ -116,10 +116,22 @@ Inscription via Rintintin booking, ou WhatsApp Communauté (liens à venir)
 
 ## Tarifs – Dogsitting et promenades {#tarifs-dogsitting-et-promenades}  
 
+Les services de dogsitting (balades et visites à domicile) sont précédés d'une pré-visite à ton domicile, gratuites, pour se rencontrer et se mettre d'accord. Je m'occupe de ton chien, sans toi, à ton domicile, dans ton quartier, mais je peux aussi l'emmener en voiture pour lui faire une balade nature (dans ce cas le temps de trajet fais parti du temps payé, donc pas adapté aux balades de 30min).  
+
+
 ### Balades individuelles / visites à domicile  
 
 - 30 minutes → 15 €  
-- 1 heure → 25 €  
+- 45 minutes → 18 €  
+- 1 heure → 22 €  
+
+### Forfaits Balades individuelles / visites à domicile  
+
+- 5 X 30 minutes → 70 €
+- 5 X 45 minutes → 85 €  
+- 5 X 1 heure → 100 €  
+
+
 
 🐾 Supplément de <span class="highlight">0,50 €/km</span> au-delà de <span class="highlight">10 km</span> autour de Saint-Étienne.  
 
