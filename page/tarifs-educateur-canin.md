@@ -122,14 +122,14 @@ Les services de dogsitting (balades et visites à domicile) sont précédés d'u
 ### Balades individuelles / visites à domicile  
 
 - 30 minutes → 15 €  
-- 45 minutes → 18 €  
-- 1 heure → 22 €  
+- 45 minutes → 19 €  
+- 1 heure → 23 €  
 
 ### Forfaits Balades individuelles / visites à domicile  
 
 - 5 X 30 minutes → 70 €
-- 5 X 45 minutes → 85 €  
-- 5 X 1 heure → 100 €  
+- 5 X 45 minutes → 90 €  
+- 5 X 1 heure → 105 €  
 
 
 
