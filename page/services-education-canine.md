@@ -17,18 +17,21 @@ Pour **chiots** ou bien **chiens adultes**, quels que soient leurs besoins, leur
 
 Je propose un accompagnement en **éducation canine positive**, basé sur la compréhension du chien, le respect de ses émotions et un suivi adapté à ton mode de vie.
 
-🐾 Éducation et rééducation du chien  
+🐾 Éducation et rééducation du chien, bases éducatives du chiot  
 🐾 Étude du comportement et accompagnement personnalisé  
 🐾 Chien réactif: peureux, agressif, mordeur, surexcité... 
 🐾 Séances individuelles et cours collectifs  
-🐾 Méthode basée sur <span class="highlight">l'encouragement et la coopération</span>
+
+Tu veux comprendre ce que j'entend par "méthode basée sur <span class="highlight">l'encouragement et la coopération</span>"? Va voir là:
 
 <div class="cta-center">
   <a class="bouton-vert" href="{{ '/pourquoi-faire-appel/' | relative_url }}">Pourquoi faire appel à moi&nbsp;?</a>
-</div>
+</div>  
 
-Ton chien est réactif? (excitation, fuite, agression, morsures...) . Va voir là pourquoi je suis compétente pour t'aider:   
- <div class="cta-center">
+
+Ton chien est <span class="highlight">réactif</span> (excitation, fuite, agression, morsures...) ? Va voir là pourquoi je suis compétente pour t'aider:   
+
+<div class="cta-center">
   <a class="bouton-vert" href="{{ '/qui-suis-je/' | relative_url }}">Tao, le chien qui a tout changé & mes formations&nbsp;?</a>
 </div>
 
@@ -51,7 +54,7 @@ Objectifs du bilan :
 
 ---
 
-### La séance d'éducation canine
+### La séance d'éducation canine individuelle
 
 Les séances d'éducation peuvent être réalisées à l'unité ou dans le cadre d'un forfait.  
 Chaque séance est adaptée à l'évolution de ton chien et à vos objectifs.
@@ -65,11 +68,28 @@ Une séance comprend :
 🐾 <span class="highlight">Durée</span> : environ <span class="highlight">1h</span>
 🐾 <span class="highlight">Lieu</span> : domicile, quartier, parc... selon les besoins  
 
-![Séance éducation et comportement canin individuelle à Saint-Étienne](../assets/images/Chien de chasse obéissant.jpg)
-
-
+![Séance éducation et comportement canin individuelle à Saint-Étienne](../assets/images/Education foyer multi-chien.jpg)
 
 ---
+
+### Les ateliers collectifs
+
+Attention, ces séances ne sont accessibles qu'aux chiens en suivi individuel, ou au minimum ayant fait un bilan comportemental avec moi. 
+De plus, je décide si l'atelier proposé convient au chien lors de son inscription.   
+
+Il existe différents types d'ateliers ou activité collectives, mais toujours en nombre très limité (4 à 6 chiens maxi)
+
+- Les ateliers chiots: socialisation, apprentissages, jeux (je privilégie des interactions calmes, les ateliers chiots ne sont pas 1h d'excitation entre eux où ils n'apprennent rien).  
+- Les cours collectifs/balades éducatives et sociales: cotoyer ses congénères, des humains, sans jamais être forcé de jouer ou d'être caliné (si ton chien préfère juste faire pipi sur 1000 poteaux et jamais jouer, c'est OK), des exercices pour mettre en pratique ce qu'on fait en séance individuelle.  
+- Les ateliers réactifs: 4 chiens maxi, on travaille ce qu'on voit en séance individuelle, <span class="highlight">sans mise en contact des chiens</span>. On leur laisse le temps, l'espace nécessaire pour apprendre dans de bonnes conditions
+
+🐾 <span class="highlight">Durée</span> : environ <span class="highlight">1h</span>
+🐾 <span class="highlight">Lieu</span> : parc, zone nature (forêt/campagne)... selon les besoins  
+
+![Séance éducation collective à Saint-Étienne](../assets/images/Atelier collectif Chiots.jpg)
+
+---
+
 
 ### Le suivi premium
 
@@ -87,6 +107,9 @@ Ce suivi inclut :
 <div class="cta-center">
   <a class="bouton-vert" href="{{ '/tarifs/#tarifs-education-canine' | relative_url }}">Voir mes tarifs éducation</a>
 </div>
+
+![Séance éducation personnalisée à Saint-Étienne](../assets/images/Educatrice avec cliente et chien.jpg)
+
 
 ---
 
