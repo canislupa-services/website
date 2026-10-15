@@ -68,7 +68,7 @@ Une séance comprend :
 🐾 <span class="highlight">Durée</span> : environ <span class="highlight">1h</span>
 🐾 <span class="highlight">Lieu</span> : domicile, quartier, parc... selon les besoins  
 
-![Séance éducation et comportement canin individuelle à Saint-Étienne](../assets/images/Education foyer multi-chien.jpg)
+![Séance éducation et comportement canin individuelle à Saint-Étienne](../assets/images/Education-foyer-multi-chien.jpg)
 
 ---
 
@@ -86,7 +86,7 @@ Il existe différents types d'ateliers ou activité collectives, mais toujours e
 🐾 <span class="highlight">Durée</span> : environ <span class="highlight">1h</span>
 🐾 <span class="highlight">Lieu</span> : parc, zone nature (forêt/campagne)... selon les besoins  
 
-![Séance éducation collective à Saint-Étienne](../assets/images/Atelier collectif Chiots.jpg)
+![Séance éducation collective à Saint-Étienne](../assets/images/Atelier-collectif-Chiots.jpg)
 
 ---
 
@@ -108,7 +108,7 @@ Ce suivi inclut :
   <a class="bouton-vert" href="{{ '/tarifs/#tarifs-education-canine' | relative_url }}">Voir mes tarifs éducation</a>
 </div>
 
-![Séance éducation personnalisée à Saint-Étienne](../assets/images/Educatrice avec cliente et chien.jpg)
+![Séance éducation personnalisée à Saint-Étienne](../assets/images/Educatrice-avec-cliente-et-chien.jpg)
 
 
 ---
