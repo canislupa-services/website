@@ -6,7 +6,7 @@ description: Éducation canine positive, bilan comportemental, rééducation, do
 
 # Éducatrice canin et comportementaliste
 
-Tu voudrais éduquer ton Bouledogue Français sans cris et sans contrainte&nbsp;? Ne plus te sentir dépassé-e par ton Malinois&nbsp;? Sortir sans stress avec ton Border Collie ou ton Berger Allemand&nbsp;? Pouvoir faire confiance à ton Berger Australien&nbsp;? Apprendre les bases éducatives à ton Cocker chiot&nbsp;? Comprendre pourquoi ton Spitz aboie sans cesse&nbsp;?  
+Tu voudrais éduquer ton Bouledogue Français sans cris et sans contrainte 🧘🏾&nbsp;? Ne plus te sentir dépassé-e par ton Malinois&nbsp;? Sortir sans stress avec ton croisé Berger Allemand x Staff&nbsp;? Pouvoir faire confiance à ton Berger Australien quand un jogger passe&nbsp;? Apprendre les bases éducatives à ton Cocker chiot ou ton chien "race indéfinie" ☺️ de refuge &nbsp;? Comprendre pourquoi ton Spitz aboie sans cesse&nbsp;?  
 
 Chien peureux, réactif, agressif, mordeur&nbsp;? Tu es au bon endroit, **je suis spécialisée dans l'accompagnement de la réactivité** ,  avec une approche **d'éducation canine positive**, basée sur <span class="highlight">le respect du chien</span>. Je m'adapte au chien, à votre binôme et à tout le foyer familial.  
   
@@ -20,7 +20,7 @@ Chien peureux, réactif, agressif, mordeur&nbsp;? Tu es au bon endroit, **je sui
 ## Des services adaptés à ton quotidien
 
 - 🌿 Suivi <span class="highlight">personnalisé</span> pour chaque duo humain–chien
-- 🐶 Travail sur le <span class="highlight">rappel</span>, la <span class="highlight">marche en laisse</span>, la <span class="highlight">réactivité</span>, la <span class="highlight">peur</span>, les <span class="highlight">aboiements</span>…
+- 🐶 Travail sur le <span class="highlight">rappel</span>, la <span class="highlight">marche en laisse</span>, la <span class="highlight">réactivité</span>, la <span class="highlight">peur</span>, les <span class="highlight">aboiements</span>, le <span class="highlight">développement du chiot</span>…
 - 💚 Méthodes basées sur <span class="highlight">l'encouragement</span> et la progression
 
 <section class="cards">
