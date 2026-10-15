@@ -25,7 +25,7 @@ Chien peureux, réactif, agressif, mordeur&nbsp;? Tu es au bon endroit, **je sui
 
 <section class="cards">
   <article class="card">
-    <img src="./assets/images/mes-services-educ.jpg" alt="Séance d'éducation canine à Saint-Étienne avec un chien qui donne la patte" class="card-img" loading="lazy" decoding="async" width="559" height="480">
+    <img src="./assets/images/Chien de chasse obéissant.jpg" alt="Séance d'éducation canine à Saint-Étienne avec un chien qui donne la patte" class="card-img" loading="lazy" decoding="async" width="559" height="480">
     <div class="card-content">
       <h3>Éducation canine</h3>
       <p>Rééducation, comportement, séances individuelles ou collectives. Méthode positive basée sur l'encouragement.</p>
