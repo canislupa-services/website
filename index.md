@@ -25,7 +25,7 @@ Chien peureux, réactif, agressif, mordeur&nbsp;? Tu es au bon endroit, **je sui
 
 <section class="cards">
   <article class="card">
-    <img src="./assets/images/Chien de chasse obéissant.jpg" alt="Séance d'éducation canine à Saint-Étienne avec un chien qui donne la patte" class="card-img" loading="lazy" decoding="async" width="559" height="480">
+    <img src="./assets/images/Education et obéissance.jpg" alt="Séance d'éducation canine à Saint-Étienne avec un chien qui donne la patte" class="card-img" loading="lazy" decoding="async" width="559" height="480">
     <div class="card-content">
       <h3>Éducation canine</h3>
       <p>Rééducation, comportement, séances individuelles ou collectives. Méthode positive basée sur l'encouragement.</p>
@@ -34,7 +34,7 @@ Chien peureux, réactif, agressif, mordeur&nbsp;? Tu es au bon endroit, **je sui
   </article>
 
   <article class="card">
-    <img src="./assets/images/dog.jpg" alt="Promenade de chien (dogsitting) à Saint-Étienne avec un berger australien" class="card-img" loading="lazy" decoding="async" width="603" height="480">
+    <img src="./assets/images/Comportementaliste et Golden Retriever.jpg" alt="Promenade de chien (dogsitting) à Saint-Étienne avec un berger australien" class="card-img" loading="lazy" decoding="async" width="603" height="480">
     <div class="card-content">
       <h3>Dogsitting</h3>
       <p>Gardes à domicile, balades individuelles ou collectives, accueil centre aéré.</p>
@@ -43,7 +43,7 @@ Chien peureux, réactif, agressif, mordeur&nbsp;? Tu es au bon endroit, **je sui
   </article>
 
   <article class="card">
-    <img src="./assets/images/jeu-de-chien.JPG" alt="Séance de prévention des morsures PECCRAM pour apprendre le langage du chien aux enfants" class="card-img" loading="lazy" decoding="async" width="640" height="415">
+    <img src="./assets/images/Samoyed chien agressif et réactif.jpg" alt="Séance de prévention des morsures PECCRAM pour apprendre le langage du chien aux enfants" class="card-img" loading="lazy" decoding="async" width="640" height="415">
     <div class="card-content">
       <h3>Prévention morsure (PECCRAM)</h3>
       <p>Programme pour apprendre aux enfants à reconnaître le langage canin et éviter les accidents.</p>
