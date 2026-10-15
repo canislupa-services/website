@@ -12,6 +12,10 @@ Faire appel à une **éducatrice canin** permet de mieux comprendre son chien, d
 
 J'interviens à <span class="highlight">Saint-Étienne et alentours</span>, **à domicile** et en extérieur, avec une approche basée sur <span class="highlight">le respect et l'encouragement</span>.
 
+
+![Séance d'éducation canine – travail du jeu et de la relation](../assets/images/Chien-qui-saute-sur-les-invités.jpg)
+
+
 ## Quand faire appel à un éducateur canin&nbsp;?
 
 Par exemple lorsque ton chien :
