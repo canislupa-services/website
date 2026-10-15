@@ -19,13 +19,19 @@ Je propose un accompagnement en **éducation canine positive**, basé sur la com
 
 🐾 Éducation et rééducation du chien  
 🐾 Étude du comportement et accompagnement personnalisé  
-🐾 Chien peureux, réactif, agressif, mordeur  
+🐾 Chien réactif: peureux, agressif, mordeur, surexcité... 
 🐾 Séances individuelles et cours collectifs  
 🐾 Méthode basée sur <span class="highlight">l'encouragement et la coopération</span>
 
 <div class="cta-center">
   <a class="bouton-vert" href="{{ '/pourquoi-faire-appel/' | relative_url }}">Pourquoi faire appel à moi&nbsp;?</a>
 </div>
+
+Ton chien est réactif? (excitation, fuite, agression, morsures...) . Va voir là pourquoi je suis compétente pour t'aider:   
+ <div class="cta-center">
+  <a class="bouton-vert" href="{{ '/qui-suis-je/' | relative_url }}">Tao, le chien qui a tout changé & mes formations&nbsp;?</a>
+</div>
+
 
 ### Le bilan comportemental du chien
 
@@ -57,7 +63,11 @@ Une séance comprend :
 - de nouveaux exercices et/ou un travail de décryptage du comportement
 
 🐾 <span class="highlight">Durée</span> : environ <span class="highlight">1h</span>
-🐾 <span class="highlight">Lieu</span> : domicile, quartier, parc... selon les besoins
+🐾 <span class="highlight">Lieu</span> : domicile, quartier, parc... selon les besoins  
+
+![Séance éducation et comportement canin individuelle à Saint-Étienne](../assets/images/Chien de chasse obéissant.jpg)
+
+
 
 ---
 
