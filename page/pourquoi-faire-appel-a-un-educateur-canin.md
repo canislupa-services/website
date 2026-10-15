@@ -13,7 +13,7 @@ Faire appel à une **éducatrice canin** permet de mieux comprendre son chien, d
 J'interviens à <span class="highlight">Saint-Étienne et alentours</span>, **à domicile** et en extérieur, avec une approche basée sur <span class="highlight">le respect et l'encouragement</span>.
 
 
-![Séance d'éducation canine – travail du jeu et de la relation](../assets/images/Chien-qui-saute-sur-les-invités.jpg)
+![Séance d'éducation canine – travail du jeu et de la relation](../assets/images/Education-foyer-multi-chien.jpg)
 
 
 ## Quand faire appel à un éducateur canin&nbsp;?
@@ -41,6 +41,9 @@ Par exemple lorsque ton chien :
 Tous ces comportements ont une cause : stress, peur, manque de repères, expériences passées, incompréhension...  
 L'éducation canine ne consiste pas à "corriger" le chien, mais à <span class="highlight">l'aider à apprendre autrement</span>.
 
+![Séance d'éducation canine – travail du jeu et de la relation](../assets/images/Chien-qui-saute-sur-les-invités.jpg)
+
+
 ## Une méthode d'éducation canine positive
 
 Mon travail repose sur une **méthode positive**, sans violence ni contrainte.  
@@ -48,7 +51,8 @@ Je cherche à comprendre pourquoi ton chien agit comme il le fait, je t'aide à 
 
 👉 Je ne travaille jamais <span class="highlight">sans toi</span> : tu participes aux séances pour pouvoir continuer sereinement au quotidien.
 
-![Séance d'éducation canine – travail du jeu et de la relation](../assets/images/donne-le-ballon.jpg)
+![Séance d'éducation canine – travail du jeu et de la relation](../assets/images/Séance-individuelle-femme-avec-son-chien.jpg)
+
 
 ## Mise en place d'un suivi éducatif
 
@@ -104,6 +108,9 @@ Ces réactions peuvent se manifester par la fuite, le blocage, les grognements, 
 
 Ces situations doivent être prises en charge avec <span class="highlight">beaucoup de précautions</span>, dans le respect du chien et de la sécurité de tous.  
 Un suivi plus long peut être nécessaire.
+
+![Séance d'éducation canine – chien qui grogne et montre les dents](../assets/images/Chien-peureux.jpg)
+
 
 ### Ma philosophie de travail
 
