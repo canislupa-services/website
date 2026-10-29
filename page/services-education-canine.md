@@ -173,8 +173,13 @@ Les interventions peuvent comprendre jusqu'à <span class="highlight">6 séances
 - Expérience en éducation, comportement et prévention
 
 Tu peux également retrouver mes informations sur diverses plateformes d'**éducateur canin**  
-👉 [proxianimaux](https://www.proxianimaux.fr/acteur/1570)  
 👉 [rintintin](https://rintintin-booking.com/pro/canislupa)  
+👉 [tobalgo](https://www.tobalgo.com/professionnels/canislupa-education-canine)  
+👉 [proxianimaux](https://www.proxianimaux.fr/acteur/1570)  
+👉 [pagesjaunes](https://www.pagesjaunes.fr/pros/65118385)  
+👉 [dogpackapp](https://www.dogpackapp.com/it/services/france/loire/saint-etienne/canislupa-education-canine)  
+
+
 
 Besoin d'un premier échange&nbsp;?  
 👉 [Me contacter]({{ "/" | relative_url }})  
