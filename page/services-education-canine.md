@@ -113,18 +113,51 @@ Ce suivi inclut :
 
 ---
 
-## Dogsitting et promenades de chiens à Saint-Étienne {#dogsitting-promenade}
+## Dogstting: "CENTRE AÉRÉ" pour chiens à Saint-Étienne {#dogsitting-promenade}
 
-Je propose également des prestations de **dogsitting et de promenades**, ponctuelles ou régulières, adaptées à ton organisation et aux besoins de ton chien.
+SERVICE DISPONIBLE À PARTIR DE DÉCEMBRE 2026  
 
-Services proposés :
+Tu n'as pas le temps de faire une vraie balade avec ton chien? Tu travailles toute la journée et loulou passe la journée seul chez toi? Tu t'es blessé-e ou tu es malade et tu ne peux pas répondre à ses besoins? Tu es juste fatigué-e et tu as besoin de laisser quelqu'un s'occuper de ton chien?  
+Le centre aéré est là pour toi (enfin pour le chien plutôt!) J'offre un vrai moment de détente grace à des balades d'au moins 1 heure, de sociabilisation avec un petit groupe de maxi 5 chiens et  d'apprentissage puisque j'encadre la sortie et propose des jeux éducatifs.  
 
-- garde à domicile
-- balades individuelles ou collectives
-- accueil centre aéré pour chiens
+### Les balades en groupe à Saint-Etienne  
 
-🐾 <span class="highlight">Durée</span> : de <span class="highlight">30 minutes à plusieurs heures</span>  
-🐾 <span class="highlight">Lieu</span> : domicile, quartier, parc, forêt...
+🐾 <span class="highlight">Durée</span> : <span class="highlight">1 heure</span>  
+🐾 <span class="highlight">Lieu</span> : parc de Saint-Etienne (Jardin des Plantes, Montaud, Europe...)  
+🐾 <span class="highlight">Quand</span> : les mardi, jeudi et vendredi entre 14h00 et 17h00  
+
+Comment ça marche:  
+Après avoir fait une pré-visite (gratuite) chez toi pour rencontrer ton chien, on se met d'accord sur les modalités pour que je puisse le récupérer les jours de balades (dans la zone d'intervention visible sur la carte). Je passe prendre les chiens à domicile dans mon véhicule adapté et je les emmène au parc pendant 1H : c'est vraiment 1h00, le temps de trajet est en plus.  
+Par exemple, je récupère les chiens entre 14h et 14h30, on arrive au parc à 14h30, on y reste jusqu'à 15h30. Je dépose les chiens chez eux entre 15h30 et 16h.  
+
+Pré-requis:
+
+    Le chien doit être sociable avec ses congénères  
+    Il doit être équipé d'un harnais et d'une longe s'il n'a pas un très bon rappel  
+    Il doit être à jour de ses vaccins et anti-parasitaires  
+
+Fournis : collier fluo avec mon numéro de téléphone sur chaque chien  
+
+
+### Les balades nature  
+
+🐾 <span class="highlight">Durée</span> : <span class="highlight">1H30</span>   
+🐾 <span class="highlight">Lieu</span> : domicile, quartier, parc, forêt...  
+🐾 <span class="highlight">Quand</span> : les mercredi entre 14h00 et 17h30  
+
+Comment ça marche:  
+Après avoir fait une pré-visite (gratuite) chez toi pour rencontrer ton chien, on se met d'accord sur les modalités pour que je le puisse récupérer les jours de balades (dans la zone d'intervention visible sur la carte). Je passe prendre les chiens à domicile dans mon véhicule adapté et je les emmène pour 1H30 de balade : c'est vraiment 1h30, les temps de trajets sont en plus
+Par exemple, je récupère les chiens entre 14h et 14h30, on arrive en forêt à 15h00, on y reste jusqu'à 16h30. Je dépose les chiens chez eux entre 17h et 17h30.  
+
+
+Pré-requis:
+
+    Le chien doit être sociable avec ses congénères
+    Il doit être équipé d'un harnais et d'une longe s'il n'a pas un très bon rappel
+    Il doit être à jour de ses vaccins et anti-parasitaires
+
+Fournis : collier fluo avec mon numéro de téléphone sur chaque chien
+
 
 <div class="cta-center">
   <a class="bouton-vert" href="{{ '/tarifs/#tarifs-dogsitting-et-promenades' | relative_url }}">Voir mes tarifs dogsitting</a>
