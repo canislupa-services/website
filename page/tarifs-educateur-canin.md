@@ -116,6 +116,8 @@ Inscription via Rintintin booking, ou WhatsApp Communauté (liens à venir)
 
 ## Tarifs – Dogsitting / Centre aéré {#tarifs-dogsitting-et-promenades}  
 
+SERVICES DISPO A PARTIR DE DÉCEMBRE 2026
+
 Services précédés d'une pré-visite à ton domicile, gratuite, pour se rencontrer et se mettre d'accord. 
 
 ### Balades en groupe à Saint-Etienne  
@@ -130,6 +132,10 @@ Les mercredi après-midi
 
 
 🐾 Groupes limités à <span class="highlight">5 chiens maximum</span>  
+
+<div class="cta-center">
+  <a class="bouton-vert" href="{{ '/services/#dogsitting-promenades' | relative_url }}">Voir comment ça se passe exactement</a>
+</div>
 
 ---
 
