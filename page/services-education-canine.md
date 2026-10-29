@@ -130,11 +130,12 @@ Comment ça marche:
 Après avoir fait une pré-visite (gratuite) chez toi pour rencontrer ton chien, on se met d'accord sur les modalités pour que je puisse le récupérer les jours de balades (dans la zone d'intervention visible sur la carte). Je passe prendre les chiens à domicile dans mon véhicule adapté et je les emmène au parc pendant 1H : c'est vraiment 1h00, le temps de trajet est en plus.  
 Par exemple, je récupère les chiens entre 14h et 14h30, on arrive au parc à 14h30, on y reste jusqu'à 15h30. Je dépose les chiens chez eux entre 15h30 et 16h.  
 
-Pré-requis:
+Pré-requis:  
 
-    Le chien doit être sociable avec ses congénères  
-    Il doit être équipé d'un harnais et d'une longe s'il n'a pas un très bon rappel  
-    Il doit être à jour de ses vaccins et anti-parasitaires  
+Le chien doit être sociable avec ses congénères  
+Il doit être équipé d'un harnais et d'une longe s'il n'a pas un très bon rappel  
+Il doit être à jour de ses vaccins et anti-parasitaires  
+PAS DE CHIENNE EN CHALEUR
 
 Fournis : collier fluo avec mon numéro de téléphone sur chaque chien  
 
@@ -150,11 +151,13 @@ Après avoir fait une pré-visite (gratuite) chez toi pour rencontrer ton chien,
 Par exemple, je récupère les chiens entre 14h et 14h30, on arrive en forêt à 15h00, on y reste jusqu'à 16h30. Je dépose les chiens chez eux entre 17h et 17h30.  
 
 
-Pré-requis:
+Pré-requis:  
 
-    Le chien doit être sociable avec ses congénères
-    Il doit être équipé d'un harnais et d'une longe s'il n'a pas un très bon rappel
-    Il doit être à jour de ses vaccins et anti-parasitaires
+Le chien doit être sociable avec ses congénères  
+Il doit être équipé d'un harnais et d'une longe s'il n'a pas un très bon rappel  
+Il doit être à jour de ses vaccins et anti-parasitaires  
+PAS DE CHIENNE EN CHALEUR
+
 
 Fournis : collier fluo avec mon numéro de téléphone sur chaque chien
 
