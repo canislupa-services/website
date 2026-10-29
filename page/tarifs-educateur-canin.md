@@ -114,52 +114,22 @@ Inscription via Rintintin booking, ou WhatsApp Communauté (liens à venir)
 
 ---
 
-## Tarifs – Dogsitting et promenades {#tarifs-dogsitting-et-promenades}  
+## Tarifs – Dogsitting / Centre aéré {#tarifs-dogsitting-et-promenades}  
 
-Les services de dogsitting (balades et visites à domicile) sont précédés d'une pré-visite à ton domicile, gratuites, pour se rencontrer et se mettre d'accord. Je m'occupe de ton chien, sans toi, à ton domicile, dans ton quartier, mais je peux aussi l'emmener en voiture pour lui faire une balade nature (dans ce cas le temps de trajet fais parti du temps payé, donc pas adapté aux balades de 30min).  
+Services précédés d'une pré-visite à ton domicile, gratuite, pour se rencontrer et se mettre d'accord. 
 
+### Balades en groupe à Saint-Etienne  
 
-### Balades individuelles / visites à domicile  
+Les mardi, jeudi et vendredi après-midi  
+- 1H → 20 €  
 
-- 30 minutes → 15 €  
-- 45 minutes → 19 €  
-- 1 heure → 23 €  
+### Balades "nature" en campagne ou forêt autour de Saint-Etienne  
 
-### Forfaits Balades individuelles / visites à domicile  
-
-- 5 X 30 minutes → 70 €
-- 5 X 45 minutes → 90 €  
-- 5 X 1 heure → 105 €  
+Les mercredi après-midi  
+- 1H30 → 30 €  
 
 
-
-🐾 Supplément de <span class="highlight">0,50 €/km</span> au-delà de <span class="highlight">10 km</span> autour de Saint-Étienne.  
-
----
-
-### Balade nature en meute 🌳🌳🌳
-
-SERVICE DISPONIBLE À PARTIR DE NOVEMBRE 2026  
-Offrir à ton chien un vrai moment de détente grâce à une balade en campagne/forêt, de sociabilisation avec d'autres chiens et d'apprentissage en étant encadré par une éducatrice/comportementaliste.  
-
-Comment ça marche:  
-Après avoir fait une pré-visite (gratuite) chez toi pour rencontrer ton chien, on se met d'accord sur les modalités pour que je le puisse récupérer les jours de balades (dans la zone d'intervention visible sur la carte). Je prends 5 chiens maximum dans mon véhicule adapté et je les emmène pour 1H30 de balade : c'est vraiment 1h30, les temps de trajets sont en plus  
-
-Pré-requis:  
-- Le chien doit être sociable avec ses congénères  
-- Il doit être équipé d'un harnais et d'une longe s'il n'a pas un très bon rappel  
-- Il doit être à jour de ses vaccins et anti-parasitaires
-
-Fournis : collier fluo avec mon numéro de téléphone sur chaque chien
-
-Inscription via Rintintin booking, ou WhatsApp Communauté (liens à venir en novembre 2026)  
-
-
-<span class="highlight">Balade : 30 €</span>  
-🐾 <span class="highlight">Durée</span> : 1h30 (hors trajet)  
-🐾 <span class="highlight">Lieu</span> : Bessy/Egotay à Roche La Molière, ou  Guizay, ... 
-
-🐾 Groupe limité à <span class="highlight">5 chiens maximum</span>  
+🐾 Groupes limités à <span class="highlight">5 chiens maximum</span>  
 
 ---
 
